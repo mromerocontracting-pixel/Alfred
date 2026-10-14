@@ -78,7 +78,16 @@
 
 This leaves out the truss heel height and assumes grade = 11'-6" NGVD. Confirm it against S-500 before using it for pressures.
 
-Planned waste (handoff rules): 15% for a standard hip roof, plus a 5–10% tile cut buffer. Not applied yet.
+**Tile product (Marc, 10/14/2026): Westlake Royal Saxony 900 concrete tile.** This is preset C1 and replaces "white antique flat cement tile". Profile, color, and NOA are still to be confirmed.
+
+**Waste (Marc, 10/14/2026): 15% total, all-in for this job.** This is a per-job override of the handoff rule (15% hip + 5–10% tile buffer). It's justified here because the roof is a simple rectangular hip with no valleys, dormers, or rakes, so cutting is limited to the 4 hips and the monitor.
+
+| Item | Net | Waste | Gross |
+|---|---|---|---|
+| Field tile | 38.36 SQ | 15% | **44.1 SQ** |
+| Hip + ridge trim | 183.8 LF (main hips 140.7 + monitor hips 25.7 + net ridge 17.4) | 15% | **211.4 LF** |
+
+Convert to pieces using the Westlake Saxony 900 sheet: field pcs/SQ and trim pcs/LF. Never assume these.
 
 ---
 
@@ -144,7 +153,7 @@ The full Solano Prado sheet has more line items than I captured (edge metal, fas
 - **NOA numbers:** none for the tile or underlayment. The GAF EverGuard TPO NOA must list a fully adhered assembly over adhered ISO on a concrete deck at this job's pressures.
 - **Slab slope vs. tapered ISO, and parapet height:** see the warnings in 3b.
 - **Underlayment ("water prf'g"):** not specified. Pick T1 / T2 / T3. (Open Item 1, the T3 definition, still applies.)
-- **Tile product:** "white antique flat cement tile" has no manufacturer or profile, so pieces per SQ and trim counts can't be set yet.
+- **Tile:** Westlake Saxony 900 (set 10/14). Still need the profile/color, the Westlake sheet for pcs/SQ and trim pcs/LF, and the Saxony 900 NOA attachment table (foam/adhesive or fastening at this job's pressures).
 - **Penetrations:** M/P sheets not received.
 
 ## 5. Plan-set notes
