@@ -25,7 +25,7 @@
 | **Low roofs** | "EPDM single ply membrane roofing on concrete slab sloped 1/4"/12" to scuppers" | **8½" concrete slab** (west roofs); **7" min. concrete eyebrow** (north strip) | 1/4":12 | A-5, A-10, A-11; S-200; S-201 note 6 |
 
 > ⚠️ **The main roof is a HIP roof, not a gable.** S-300 confirms it: hip jack trusses at all four corners, a short ridge, and a raised roof monitor. **No rakes, no gable ends.**
-> ✅ **Low-roof system set by Marc (10/14/2026): GAF EverGuard TPO 60-mil, fully adhered, over 1/4"/ft tapered ISO.** This replaces the EPDM on the plans and needs an architect/permit substitution. It's the same assembly as Solano Prado (concrete deck, fully adhered tapered ISO).
+> ✅ **Low-roof system set by Marc (10/14/2026): GAF EverGuard TPO 60-mil, FULLY BONDED (fully adhered, no mechanical attachment), over 1/4"/ft tapered ISO.** This replaces the EPDM on the plans and needs an architect/permit substitution. It's the same assembly as Solano Prado (concrete deck, fully adhered tapered ISO).
 
 ---
 
