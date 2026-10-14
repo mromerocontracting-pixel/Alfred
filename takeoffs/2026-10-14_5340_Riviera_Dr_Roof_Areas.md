@@ -89,6 +89,16 @@ This leaves out the truss heel height and assumes grade = 11'-6" NGVD. Confirm i
 
 Convert to pieces using the Westlake Saxony 900 sheet: field pcs/SQ and trim pcs/LF. Never assume these.
 
+**Underlayment (Marc, 10/14/2026): preset T1, Westlake TileSeal single ply, direct to deck** (3/4" CDX).
+
+| Item | Net | Waste | Gross | Order |
+|---|---|---|---|---|
+| Westlake TileSeal (2.0 SQ net/roll, laps included) | 38.36 SQ | 15% (job rate) | 44.1 SQ | **23 rolls** (22.06 → round up) |
+
+- Confirm the TileSeal NOA allows single-ply, direct-to-deck application under Saxony 900 in HVHZ at this job's pressures.
+- Confirm the Saxony 900 NOA attachment method is approved over TileSeal.
+- Open Item 2 (TileSeal roll size, 36"×66.7' vs 3'×72') doesn't change the 2.0 SQ coverage. Confirm the size with the supplier when ordering.
+
 ---
 
 ## 3. Low roofs — single-ply on concrete deck
@@ -152,7 +162,7 @@ The full Solano Prado sheet has more line items than I captured (edge metal, fas
 - **Roof plan sheet:** A-14 says "see roof plan for locations." S-300 is framing only and doesn't show scupper or penetration locations.
 - **NOA numbers:** none for the tile or underlayment. The GAF EverGuard TPO NOA must list a fully adhered assembly over adhered ISO on a concrete deck at this job's pressures.
 - **Slab slope vs. tapered ISO, and parapet height:** see the warnings in 3b.
-- **Underlayment ("water prf'g"):** not specified. Pick T1 / T2 / T3. (Open Item 1, the T3 definition, still applies.)
+- **Underlayment:** set to T1, Westlake TileSeal direct to deck (10/14). Need the TileSeal NOA to confirm single-ply direct-to-deck use under Saxony 900.
 - **Tile:** Westlake Saxony 900 (set 10/14). Still need the profile/color, the Westlake sheet for pcs/SQ and trim pcs/LF, and the Saxony 900 NOA attachment table (foam/adhesive or fastening at this job's pressures).
 - **Penetrations:** M/P sheets not received.
 
