@@ -5,6 +5,17 @@
 - **Sheets received:** A-1, A-2 (2 versions), A-3 to A-6, A-8 to A-16, S-200, S-201, S-300
 - **Measured by:** printed dimensions first. Where a dimension isn't printed, by vector measurement of the PDF linework at the stated scale (scale verified, see Method).
 
+> ## ⚠️ REV 1 — City-APPROVED SET (Coral Gables, stamped 06/12/2026, BLDR-25-10-8302)
+> The approved set (`5340.Riviera-APPROVED.Set.pdf`, sheets A-1 to A-16) is **not** the bid set (issued 10.21.2025) originally measured. It carries CoCG revisions 1–3 (12/19/2025, 01/27/2026, 03/06/2026).
+> - **Roof overhang changed from 5'-0" to 3'-0" typ.** (A-2, A-8, A-9). The A-2 note reads "overhang width & max. distance encroachment from required setbacks". This shrinks the tile roof.
+> - **Eave rectangle is now 44'-5" × 70'-8½"** (38'-5" × 64'-8½" second-floor outline, unchanged on A-5, plus 2 × 3'-0"). Scaled check on approved A-2: ≈ 44.3' × 70.4'.
+> - **Tile surface is now ≈ 3,334 SF = 33.34 SQ net** (main 3,251.9 + monitor 82.2), down from 38.36 SQ.
+> - Eave/drip edge: 230.2 LF main + 35.3 LF monitor = 265.6 LF. Hips: 4 × 32.27 = 129.1 LF (rise 7.40'). Ridge: 26.3 LF gross / 17.5 LF net. Hip + ridge total including monitor: 172.2 LF.
+> - The roof monitor is relabeled "roof dormer". Same geometry: top plate 34'-9", A-14 details unchanged.
+> - **Low roofs: unchanged.** A-5 dimensions and west-roof linework match the bid set, and the plans still say EPDM. The north eyebrow (4'-8") now projects about 1'-8" past the 3'-0" eave.
+> - The approved set has no S-sheets. S-200/S-201/S-300 data is from the bid set; confirm there's no structural revision.
+> - Section 2 below shows the original 5'-0" overhang figures. **Superseded. Use the Rev 1 numbers above.**
+
 ---
 
 ## Summary

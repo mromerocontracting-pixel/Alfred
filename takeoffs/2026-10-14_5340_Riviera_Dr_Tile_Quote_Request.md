@@ -6,10 +6,10 @@
 |---|---|
 | Tile | Westlake – Saxony 900 (concrete) |
 | Profile / Color | **TBD**. Plans call for "white antique flat". Please advise the matching profile and color. |
-| Roof Area (incl. 15% waste) | 44.1 SQ |
-| Hip & Ridge Tile | 211.4 linear ft (incl. 15% waste) |
-| Eave closure | 323.7 linear ft |
-| Underlayment | Westlake TileSeal: 23 rolls (2.0 SQ/roll) |
+| Roof Area (incl. 15% waste) | 38.3 SQ |
+| Hip & Ridge Tile | 198 linear ft (incl. 15% waste) |
+| Eave closure | 305 linear ft |
+| Underlayment | Westlake TileSeal: 20 rolls (2.0 SQ/roll) |
 
 ## Request
 Please quote the tile, hip/ridge trim, eave closure, and TileSeal above for delivery to the project address. Please also include:
