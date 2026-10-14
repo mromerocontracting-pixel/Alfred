@@ -50,6 +50,58 @@ For tile, also calculate adhesive (foam paddies or pails) and trim counts per th
 
 Assume 2-ply on flat roofs unless told otherwise. Always calculate base and cap separately.
 
+## Draft Presets (pending confirmation)
+These are placeholders. Do not use a draft preset in a takeoff until its products, coverage, and NOA/FL# are filled in. If a job calls for one, list each blank under **"Critical Missing Data for Miami-Dade Permitting"**.
+
+### Additional Coverings
+| ID | Covering | Track | Product / NOA | Coverage |
+|---|---|---|---|---|
+| S1 | Architectural asphalt shingle | Bundles per SQ, starter LF, hip & ridge cap LF, nails per shingle per NOA | TBD | TBD |
+| M2 | 5V crimp metal | Panel coverage width, gauge, fastener spacing per NOA, full trim package | TBD | TBD |
+| F3 | TPO single-ply | Fully adhered or mechanically attached; detail membrane at walls/parapets; bonding adhesive; seam cleaner | Used on Solano Prado and 5340 Riviera: GAF EverGuard TPO 60-mil white, 5'×100' roll (#7561920), UN-55 detail 24"×50' (#7624920TP), GAF #1121 bonding adhesive 5 gal (HAZMAT). NOA: TBD | 5 SQ per roll gross; waste 10% membrane/flashing, 5% adhesive (Solano Prado price book) |
+| F4 | Roof coating (acrylic or silicone) | Gallons per SQ per coat, number of coats, primer, reinforcing fabric at seams | TBD | TBD |
+
+### Additional Underlayments / Assemblies
+| ID | Use | Product(s) | Net Coverage per Roll |
+|---|---|---|---|
+| T4 | Tile, alternate | TBD | TBD |
+| U-S1 | Shingle underlayment | TBD | TBD |
+| U-M2 | Metal, alternate | TBD | TBD |
+| L5 | Single-ply assembly: tapered ISO (1/4"/ft) + F3 TPO | Tapered ISO by supplier taper layout; insulation adhesive and cover board per NOA: TBD | Taper: supplier quote |
+| L6 | Nail-base re-cover | Used on 4197 Douglas Rd: Atlas ISO nail base (3.0" polyiso + 5/8" CDX, R-18.2) with CertainTeed underlayment. NOA: TBD | Panel SF: TBD |
+
+### Repair Scopes
+Repairs are quantity-driven, not SQ-driven. Ask for the count, LF, or SF of each item. Before pricing any repair, flag it if the work could exceed **25% of the roof or roof section within 12 months**, which can trigger a full re-roof under the Florida Building Code (confirm the code section that applies to the job).
+
+| ID | Scope | Input Unit | Materials to Track |
+|---|---|---|---|
+| R1 | Broken tile replacement | Pieces | Matching field tile, tile adhesive, underlayment patch where exposed |
+| R2 | Tile valley rebuild | Valley LF | Valley metal, underlayment strip, reset or new tile, adhesive, trim/mortar |
+| R3 | Hip & ridge reset or replace | Hip & ridge LF | Hip/ridge tile, adhesive or mortar, ridge closure |
+| R4 | Wall / counter / stucco-stop flashing replacement | LF | Flashing metal, sealant, fasteners, underlayment patch |
+| R5 | Penetration re-flash | EA (by type: pipe, lead stack, vent, skylight) | Boots or lead flashing, sealant, underlayment patch |
+| R6 | Flat-roof leak patch | SF | Base and cap patch material, primer, mastic |
+| R7 | Deck / wood replacement | Sheets of plywood; LF of fascia or rafter tails | Plywood, lumber, ring-shank nails per HVHZ schedule |
+| R8 | Drip edge / fascia replacement | LF | Drip edge, fascia board, fasteners, sealant |
+| R9 | Emergency dry-in / tarp | SF | Tarp or temporary SA underlayment, cap nails, battens |
+| R10 | Roof-to-wall expansion joint (TPO) | LF | Expansion joint, TPO detail membrane, termination bar, sealant (SoBe Room: 66 LF) |
+| R11 | Soffit & fascia removal only | LF | Disposal only; photo-document rafter tails and sheathing (Scope #1 template) |
+| R12 | Soffit & fascia removal and redesign | LF | Sub-fascia, fascia, vented soffit, J/F-channel, drip edge, sealant, paint (Scope #2 template) |
+| R13 | Flat roof tear-off with 1/4" taper | SF | Tapered insulation or sleepers, decking, membrane (F3 / L-series), edge metal, termination bar, fascia (Scope #3 template) |
+
+### Accessories & Add-ons (any job)
+| ID | Item | Unit | Product / NOA |
+|---|---|---|---|
+| A1 | Drip edge (specify gauge and metal; copper used on 4197 Douglas Rd) | LF | TBD |
+| A2 | Off-ridge / ridge vents | EA or LF | TBD |
+| A3 | Turbines / gable vents | EA | TBD |
+| A4 | Lead or neoprene pipe boots | EA | TBD |
+| A5 | Gutters and downspouts | LF / EA | TBD |
+| A6 | Insulation (flat roofs) | SF, R-value | TBD |
+| A7 | Plywood re-nailing on re-roofs | SQ | Nail type and spacing per code |
+| A8 | Dumpster / debris haul | EA | Size TBD |
+| A9 | Permit and NOA package | EA | — |
+
 ## Waste Rules
 - 10% for basic gable roofs
 - 15% for standard hip roofs
@@ -79,3 +131,5 @@ Always report: roof slope, total SQFT / SQ, drip edge LF, L-flashing LF, hip & r
 
 ## To Start a Takeoff, Provide
 The roof system and preset IDs; the plan set or report; pitch; mean roof height; Risk and Exposure Category or zone pressures; deck type and condition (new or re-roof, number of layers to remove); the linear footages; penetrations; and the products or NOAs already selected.
+
+For a repair, provide the repair IDs (R1–R13) with the count, LF, or SF of each item, the existing roof system and products, and the total roof or roof-section size so the 25% rule can be checked.
