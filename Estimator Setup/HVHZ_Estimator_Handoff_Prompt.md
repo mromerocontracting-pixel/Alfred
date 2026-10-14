@@ -46,7 +46,7 @@ For tile, also calculate adhesive (foam paddies or pails) and trim counts per th
 | L1 | Polyglass Elastobase (mechanically attached, tin tags or caps per NOA row spacing) | Polyglass Elastoflex SA P | Base 2.0 SQ / Cap 1.0 SQ |
 | L2 | Polyglass Elastoflex SA V (self-adhered) | Polyglass Elastoflex SA P | Base 2.0 SQ / Cap 1.0 SQ |
 | L3 | CertainTeed Flintlastic SA NailBase / PlyBase | CertainTeed Flintlastic SA Cap | Base 2.0 SQ / Cap 1.0 SQ |
-| L4 | Mod-bit torch / hot mop | Products to be confirmed | To be confirmed |
+| L4 | Hot-mopped GAF built-up over polyiso: GAF Strat base sheet + 2 plies GAF Ply IV, Type ___ asphalt per mopped layer (confirmed 2026-10-12, 3100 Ohio) | GAF Cap Sheet | Strat 130 SF / Ply IV 500 SF / Cap 125 SF per roll (from Marc's takeoff sheet; check against GAF data sheets) |
 
 Assume 2-ply on flat roofs unless told otherwise. Always calculate base and cap separately.
 
@@ -75,7 +75,7 @@ Always report: roof slope, total SQFT / SQ, drip edge LF, L-flashing LF, hip & r
 1. **T3:** Is "SA Cap direct to deck" its own single-ply tile option? Or did I mean Citadel PRO with an SA Cap on top?
 2. **TileSeal roll size:** I listed 36" x 66.7'. Westlake's current brochure lists 3' x 72'. Both net 2 SQ.
 3. **"SAP":** Assumed to be Polyglass Elastoflex SA P (SBS). Confirm it isn't Polyflex SA P (APP).
-4. **L4 mod-bit:** Which base, ply, and cap products, and torch or hot mop?
+4. **L4 mod-bit:** Settled 2026-10-12: ISO / GAF Strat / GAF Ply IV (2 plies) / GAF Cap Sheet, hot mop. Still to confirm per job: ISO thickness and attachment, asphalt type (III or IV), and the NOA #.
 
 ## To Start a Takeoff, Provide
 The roof system and preset IDs; the plan set or report; pitch; mean roof height; Risk and Exposure Category or zone pressures; deck type and condition (new or re-roof, number of layers to remove); the linear footages; penetrations; and the products or NOAs already selected.
