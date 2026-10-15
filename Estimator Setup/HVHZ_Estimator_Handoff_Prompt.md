@@ -88,6 +88,7 @@ Repairs are quantity-driven, not SQ-driven. Ask for the count, LF, or SF of each
 | R11 | Soffit & fascia removal only | LF | Disposal only; photo-document rafter tails and sheathing (Scope #1 template) |
 | R12 | Soffit & fascia removal and redesign | LF | Sub-fascia, fascia, vented soffit, J/F-channel, drip edge, sealant, paint (Scope #2 template) |
 | R13 | Flat roof tear-off with 1/4" taper | SF | Tapered insulation or sleepers, decking, membrane (F3 / L-series), edge metal, termination bar, fascia (Scope #3 template) |
+| R14 | Chimney cap replace or install | EA, with the chimney top's outside L × W and flue count | Cap (metal type and gauge, fabricated to size), fasteners, sealant; crown repair and chimney re-flash priced separately if needed. Product approval for the cap: TBD |
 
 ### Accessories & Add-ons (any job)
 | ID | Item | Unit | Product / NOA |
@@ -132,4 +133,4 @@ Always report: roof slope, total SQFT / SQ, drip edge LF, L-flashing LF, hip & r
 ## To Start a Takeoff, Provide
 The roof system and preset IDs; the plan set or report; pitch; mean roof height; Risk and Exposure Category or zone pressures; deck type and condition (new or re-roof, number of layers to remove); the linear footages; penetrations; and the products or NOAs already selected.
 
-For a repair, provide the repair IDs (R1–R13) with the count, LF, or SF of each item, the existing roof system and products, and the total roof or roof-section size so the 25% rule can be checked.
+For a repair, provide the repair IDs (R1–R14) with the count, LF, or SF of each item, the existing roof system and products, and the total roof or roof-section size so the 25% rule can be checked.
