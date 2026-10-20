@@ -73,15 +73,15 @@ Deteriorated or damaged wood decking will be replaced in kind to match the exist
 
 | Deck Type | Included Allowance | Overage Rate |
 |---|---|---|
-| CDX plywood decking (___" thickness) | Up to ___ sheets (4' × 8') | Per Wood Addendum |
+| CDX plywood decking (thickness to match existing or as required by code, whichever is greater) | Up to ___ sheets (4' × 8') | Per Wood Addendum |
 | 1" × 6" or 1" × 8" tongue-and-groove / common plank | Up to ___ lineal feet | Per Wood Addendum |
 | 1" × 6" or 1" × 8" fascia board | Up to ___ lineal feet | Per Wood Addendum |
 
 - **Allowance:** Wood allowances include labor and material, are included in the contract price, and are non-refundable. No credit will be issued for unused quantities.
 - **Documentation:** All replaced decking and fascia will be photo-documented and quantified prior to being covered.
-- **Re-nailing:** The existing wood deck will be re-nailed in its entirety with 8d ring-shank nails at ___" o.c., in accordance with the Florida Building Code, HVHZ requirements.
+- **Re-nailing:** The existing wood deck will be re-nailed in its entirety with 8d ring-shank nails of the length and spacing required by the Florida Building Code, HVHZ requirements.
 - **Structural framing:** Repairs to rafters, rafter tails, trusses, or other structural framing are excluded and will be addressed by written change order before proceeding.
 - **Stucco:** Stucco work beyond standard roofing tie-in areas will be billed at $10.00 per lineal foot unless otherwise agreed in writing.
 - **Painting:** Painting is excluded from this scope. The Owner is responsible for all painting following completion of the roof, including wood, stucco, coatings, fascia, and related surfaces.
 
-<!-- Pending: confirm plywood thickness, nail spacing (and nail length), and attach the Wood Addendum. -->
+<!-- Pending: attach the Wood Addendum. -->
