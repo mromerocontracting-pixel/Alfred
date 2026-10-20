@@ -9,7 +9,7 @@
 - Cross-check: Gulfeagle tapered area 23.37 SQ. Perimeter scaled from the Gulfeagle drawing ≈ 263.5 LF.
 
 ## Rev 1 (Marc's quantity adjustments, 10/20/2026)
-Seam cleaner 2 cans · Water Block 22 · FlexSeal 30 · term bar 60 pcs (600 LF) · masonry anchors 23 boxes (2,300).
+Seam cleaner 2 cans · Water Block 22 · FlexSeal 30 · term bar 60 pcs (600 LF: two rows, TPO termination + counterflashing, per Marc) · masonry anchors 23 boxes (2,300).
 Insulation adhesive: OlyBond 500, 3 @ $1,080 = $3,240 (Marc).
 **Rev 1 totals: subtotal $22,907.98 · tax $1,603.56 · total material $24,511.54.** Spreadsheet: `xlsx/2026-10-20_769_NE_74th_TPO_Takeoff_Rev1.xlsx`.
 
