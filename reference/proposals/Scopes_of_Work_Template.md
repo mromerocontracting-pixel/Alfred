@@ -67,3 +67,17 @@ Demolition only. No new material unless separately authorized.
 11. Clean up and haul away debris.
 
 **Exclusions:** interior water damage from pre-existing conditions; gutters/downspouts unless listed; relocation of rooftop equipment unless listed.
+
+## Wood Decking & Related Repairs (shared section)
+The existing wood deck will be repaired or replaced to match what is found once the old roof is removed. Because the deck type (plywood or tongue-and-groove) cannot always be confirmed before tear-off, an allowance is listed for each; the allowance matching the existing deck applies. Wood beyond the allowance is charged per the Wood Addendum (attached).
+
+| Deck Type | Included Allowance | Overage Rate |
+|---|---|---|
+| CDX plywood decking | Up to ___ sheets (4' × 8') | Per Wood Addendum |
+| 1" × 6" or 1" × 8" tongue-and-groove / common plank | Up to ___ lineal feet | Per Wood Addendum |
+| 1" × 6" or 1" × 8" fascia board | Up to ___ lineal feet | Per Wood Addendum |
+
+- Allowances are included in the contract price. Unused allowance is not credited or refunded.
+- Complete re-nailing of existing wood decking using 8d (2") ring-shank nails, per FBC and HVHZ requirements.
+- If additional stucco work is required beyond standard roofing tie-in areas, it will be charged at $10.00 per lineal foot unless otherwise agreed in writing.
+- No painting will be performed by M. Romero's Roofing & Inspections, Inc. The homeowner is responsible for all painting following the re-roof — including wood, stucco, coatings, fascia, and related surfaces.
