@@ -69,15 +69,19 @@ Demolition only. No new material unless separately authorized.
 **Exclusions:** interior water damage from pre-existing conditions; gutters/downspouts unless listed; relocation of rooftop equipment unless listed.
 
 ## Wood Decking & Related Repairs (shared section)
-Deteriorated or damaged wood decking will be replaced in kind to match the existing construction. As the deck type (CDX plywood or tongue-and-groove plank) cannot always be verified prior to tear-off, an allowance is provided for each; only the allowance corresponding to the existing deck will apply. Quantities exceeding the allowance will be billed at the rates set forth in the attached Wood Addendum.
+Deteriorated or damaged wood decking will be replaced in kind to match the existing construction. As the deck type (CDX plywood or tongue-and-groove plank) cannot always be verified prior to tear-off, an allowance is provided for each; only the allowance corresponding to the existing deck will apply. The fascia allowance applies in addition to the deck allowance. Quantities exceeding the allowance will be billed at the rates set forth in the attached Wood Addendum.
 
 | Deck Type | Included Allowance | Overage Rate |
 |---|---|---|
-| CDX plywood decking | Up to ___ sheets (4' × 8') | Per Wood Addendum |
+| CDX plywood decking (___" thickness) | Up to ___ sheets (4' × 8') | Per Wood Addendum |
 | 1" × 6" or 1" × 8" tongue-and-groove / common plank | Up to ___ lineal feet | Per Wood Addendum |
 | 1" × 6" or 1" × 8" fascia board | Up to ___ lineal feet | Per Wood Addendum |
 
-- **Allowance:** Wood allowances are included in the contract price and are non-refundable. No credit will be issued for unused quantities.
-- **Re-nailing:** The existing wood deck will be re-nailed in its entirety with 8d (2") ring-shank nails in accordance with the Florida Building Code, HVHZ requirements.
+- **Allowance:** Wood allowances include labor and material, are included in the contract price, and are non-refundable. No credit will be issued for unused quantities.
+- **Documentation:** All replaced decking and fascia will be photo-documented and quantified prior to being covered.
+- **Re-nailing:** The existing wood deck will be re-nailed in its entirety with 8d ring-shank nails at ___" o.c., in accordance with the Florida Building Code, HVHZ requirements.
+- **Structural framing:** Repairs to rafters, rafter tails, trusses, or other structural framing are excluded and will be addressed by written change order before proceeding.
 - **Stucco:** Stucco work beyond standard roofing tie-in areas will be billed at $10.00 per lineal foot unless otherwise agreed in writing.
 - **Painting:** Painting is excluded from this scope. The Owner is responsible for all painting following completion of the roof, including wood, stucco, coatings, fascia, and related surfaces.
+
+<!-- Pending: confirm plywood thickness, nail spacing (and nail length), and attach the Wood Addendum. -->
