@@ -35,7 +35,7 @@ This includes the Gulfeagle tapered ISO at $11,971. That quote expired 7/30/2025
 
 ## Rev 2 (10/20/2026): flashing per GAF details 301A + 307A (CURRENT)
 - Wall flashing: reinforced TPO cut into 30" strips (+1 roll, 7 TPO rolls total). UN-55 reduced to 1 roll, for corners/details only.
-- Term bar: 2 rows (307A at the base of the wall, 301A at the top), 60 pcs. Masonry anchors: 6 boxes at 12" o.c. (was 23).
+- Term bar: 2 rows (307A at the base of the wall, 301A at the top), 60 pcs. Masonry anchors: 9 boxes at 12" o.c. covering 3 rows (2 term bar + counterflashing): 787 + 10% = 866 (was 23).
 - Counterflashing: stucco stop 5" 26 ga, 29 pcs, $236.35. Alternate: two-part SS reglet per A-3, price TBD.
-- **Rev 2 totals: subtotal $21,571.33 · tax $1,509.99 · total material $23,081.32.** Spreadsheet: `xlsx/2026-10-20_769_NE_74th_TPO_Takeoff_Rev2.xlsx`.
+- **Rev 2 totals: subtotal $21,598.33 · tax $1,511.88 · total material $23,110.21.** Spreadsheet: `xlsx/2026-10-20_769_NE_74th_TPO_Takeoff_Rev2.xlsx`.
 - Not in total: SS reglet alternate, pipe boots / CU stand supports.
