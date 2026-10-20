@@ -12,6 +12,17 @@
 Material subtotal **$19,134.83** · tax 7% $1,339.44 · **Total material $20,474.27**.
 This includes the Gulfeagle tapered ISO at $11,971. That quote expired 7/30/2025, so requote.
 
+## Decisions
+- **8" minimum base flashing height above the finished roof surface, at all walls/parapets** (Marc, 10/20/2026).
+  - Parapet exposure = 16" (35.00' − 33.67' NGVD) minus the insulation thickness at the wall.
+  - At the 5.50" low points: 10.5" exposure. **OK.**
+  - At the 11.81" high points: ≈ 4.2" exposure. **Short ≈ 3.8".**
+  - Fix options, to resolve with the architect and Gulfeagle:
+    - (a) raise the parapets ≈ 4" at the high sides;
+    - (b) redesign the taper so the high points sit at ≤ 8" total thickness (e.g., drop or thin the 2 × 2.5" base layers; check the energy-code R-value);
+    - (c) add more drains/crickets to shorten the slope runs.
+  - UN-55 24" detail rolls still cover an 8" upturn plus the field lap.
+
 ## Open items
 1. Parapet height vs. tapered ISO thickness (5.5"–11.81"). Base flashing height may fall short at the high points.
 2. Two-part SS reglet/counterflashing (262 LF), insulation adhesive, and penetrations/CU stand: TBD, not in the total.
