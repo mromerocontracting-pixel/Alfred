@@ -40,5 +40,6 @@ This includes the Gulfeagle tapered ISO at $11,971. That quote expired 7/30/2025
 - Tools/consumables added: brushes 6, masonry drill bits 6, roller frames 4, roller covers 12, mops 2 ($69.56).
 Tapered ISO: revised Gulfeagle proposal $12,929 (Marc, 10/20/2026).
 Penetrations (P-2/P-3/S3): 6 VTRs (5 x 2" boots added, $192.55; 3" laundry VTR boot TBD). 4 scupper drains + 4 overflow scuppers. CU-1/2/3 stand by others, legs TBD.
-**Rev 2 totals: subtotal $22,818.44 · tax $1,597.29 · total material $24,415.73.** Spreadsheet: `xlsx/2026-10-20_769_NE_74th_TPO_Takeoff_Rev2.xlsx`.
+Scuppers: 8 GAF EverGuard TPO scuppers 8x10x12 @ $212.75 + 3" VTR boot (3"-5") @ $45.45, from Gulfeagle quote S002031839 (12/12/2024, expired, reconfirm). Collector heads/downspouts TBD.
+**Rev 2 totals: subtotal $24,565.89 · tax $1,719.61 · total material $26,285.50.** Spreadsheet: `xlsx/2026-10-20_769_NE_74th_TPO_Takeoff_Rev2.xlsx`.
 - Not in total: SS reglet alternate, pipe boots / CU stand supports.
