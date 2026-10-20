@@ -10,7 +10,8 @@
 
 ## Rev 1 (Marc's quantity adjustments, 10/20/2026)
 Seam cleaner 2 cans · Water Block 22 · FlexSeal 30 · term bar 60 pcs (600 LF) · masonry anchors 23 boxes (2,300).
-**Rev 1 totals: subtotal $19,667.98 · tax $1,376.76 · total material $21,044.74.** Spreadsheet: `xlsx/2026-10-20_769_NE_74th_TPO_Takeoff_Rev1.xlsx`.
+Insulation adhesive: OlyBond 500, 3 @ $1,080 = $3,240 (Marc).
+**Rev 1 totals: subtotal $22,907.98 · tax $1,603.56 · total material $24,511.54.** Spreadsheet: `xlsx/2026-10-20_769_NE_74th_TPO_Takeoff_Rev1.xlsx`.
 
 ## Totals (Rev 0, superseded)
 Material subtotal **$19,134.83** · tax 7% $1,339.44 · **Total material $20,474.27**.
