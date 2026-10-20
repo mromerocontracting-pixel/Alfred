@@ -38,5 +38,6 @@ This includes the Gulfeagle tapered ISO at $11,971. That quote expired 7/30/2025
 - Term bar: 2 rows (307A at the base of the wall, 301A at the top), 60 pcs. Masonry anchors: 9 boxes at 12" o.c. covering 3 rows (2 term bar + counterflashing): 787 + 10% = 866 (was 23).
 - Counterflashing: stucco stop 5" 26 ga, 29 pcs, $236.35. Alternate: two-part SS reglet per A-3, price TBD.
 - Tools/consumables added: brushes 6, masonry drill bits 6, roller frames 4, roller covers 12, mops 2 ($69.56).
-**Rev 2 totals: subtotal $21,667.89 · tax $1,516.75 · total material $23,184.64.** Spreadsheet: `xlsx/2026-10-20_769_NE_74th_TPO_Takeoff_Rev2.xlsx`.
+Tapered ISO: revised Gulfeagle proposal $12,929 (Marc, 10/20/2026).
+**Rev 2 totals: subtotal $22,625.89 · tax $1,583.81 · total material $24,209.70.** Spreadsheet: `xlsx/2026-10-20_769_NE_74th_TPO_Takeoff_Rev2.xlsx`.
 - Not in total: SS reglet alternate, pipe boots / CU stand supports.
