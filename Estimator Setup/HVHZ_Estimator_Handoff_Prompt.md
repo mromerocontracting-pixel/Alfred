@@ -31,9 +31,9 @@ For tile, also calculate adhesive (foam paddies or pails) and trim counts per th
 ### Tile Underlayments
 | ID | Assembly | Product(s) | Net Coverage per Roll |
 |---|---|---|---|
-| T1 | Single ply | Westlake TileSeal | 2.0 SQ |
+| T1 | Single ply | Westlake TileSeal (roll 3' x 72') | 2.0 SQ |
 | T2 | Two-ply | Westlake Citadel PRO base (FL14317) + Westlake TileSeal top | 2.0 SQ each layer |
-| T3 | Single ply direct to deck | CertainTeed Flintlastic SA Cap | 1.0 SQ |
+| T3 | Single ply direct to deck (its own option; no base sheet) | CertainTeed Flintlastic SA Cap | 1.0 SQ |
 
 ### Metal Underlayment
 | ID | Product | Net Coverage per Roll | Notes |
@@ -43,10 +43,10 @@ For tile, also calculate adhesive (foam paddies or pails) and trim counts per th
 ### Low-Slope Assemblies
 | ID | Base | Cap | Coverage per Roll |
 |---|---|---|---|
-| L1 | Polyglass Elastobase (mechanically attached, tin tags or caps per NOA row spacing) | Polyglass Elastoflex SA P | Base 2.0 SQ / Cap 1.0 SQ |
-| L2 | Polyglass Elastoflex SA V (self-adhered) | Polyglass Elastoflex SA P | Base 2.0 SQ / Cap 1.0 SQ |
+| L1 | Polyglass Elastobase (mechanically attached, tin tags or caps per NOA row spacing) | Polyglass Polyflex SA P (APP) | Base 2.0 SQ / Cap 1.0 SQ (confirm cap net coverage on the Polyflex SA P data sheet) |
+| L2 | Polyglass Elastoflex SA V (self-adhered) | Polyglass Polyflex SA P (APP) | Base 2.0 SQ / Cap 1.0 SQ (confirm cap net coverage on the Polyflex SA P data sheet) |
 | L3 | CertainTeed Flintlastic SA NailBase / PlyBase | CertainTeed Flintlastic SA Cap | Base 2.0 SQ / Cap 1.0 SQ |
-| L4 | Mod-bit torch / hot mop | Products to be confirmed | To be confirmed |
+| L4 | Mod-bit, hot mop (Type III asphalt) | Base, ply, and cap products to be confirmed | To be confirmed |
 
 Assume 2-ply on flat roofs unless told otherwise. Always calculate base and cap separately.
 
@@ -125,10 +125,13 @@ Always report: roof slope, total SQFT / SQ, drip edge LF, L-flashing LF, hip & r
 - Mark any inferred geometry as provisional.
 
 ## Open Items (still to confirm)
-1. **T3:** Is "SA Cap direct to deck" its own single-ply tile option? Or did I mean Citadel PRO with an SA Cap on top?
-2. **TileSeal roll size:** I listed 36" x 66.7'. Westlake's current brochure lists 3' x 72'. Both net 2 SQ.
-3. **"SAP":** Assumed to be Polyglass Elastoflex SA P (SBS). Confirm it isn't Polyflex SA P (APP).
-4. **L4 mod-bit:** Which base, ply, and cap products, and torch or hot mop?
+1. **L4 mod-bit (hot mop):** Which base, ply, and cap products? Method is settled: hot mop with Type III asphalt.
+
+## Settled Items
+- **T3** (11/20/2026): CertainTeed Flintlastic SA Cap alone, direct to deck, is its own single-ply tile option.
+- **TileSeal roll size** (11/20/2026): use 3' x 72' per Westlake's current brochure. Nets 2.0 SQ.
+- **"SAP" cap** (11/20/2026): Polyglass Polyflex SA P (APP), not Elastoflex SA P (SBS). Applies to L1 and L2.
+- **L4 method** (11/20/2026): hot mop with Type III asphalt. Products still open (see above).
 
 ## To Start a Takeoff, Provide
 The roof system and preset IDs; the plan set or report; pitch; mean roof height; Risk and Exposure Category or zone pressures; deck type and condition (new or re-roof, number of layers to remove); the linear footages; penetrations; and the products or NOAs already selected.

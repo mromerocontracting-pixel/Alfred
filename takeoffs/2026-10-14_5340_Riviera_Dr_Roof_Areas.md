@@ -108,7 +108,7 @@ Convert to pieces using the Westlake Saxony 900 sheet: field pcs/SQ and trim pcs
 
 - Confirm the TileSeal NOA allows single-ply, direct-to-deck application under Saxony 900 in HVHZ at this job's pressures.
 - Confirm the Saxony 900 NOA attachment method is approved over TileSeal.
-- Open Item 2 (TileSeal roll size, 36"×66.7' vs 3'×72') doesn't change the 2.0 SQ coverage. Confirm the size with the supplier when ordering.
+- TileSeal roll size settled 11/20/2026: 3'×72', 2.0 SQ net. No change to the roll count.
 
 ---
 
