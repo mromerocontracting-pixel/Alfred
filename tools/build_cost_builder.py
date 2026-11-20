@@ -92,7 +92,7 @@ PRICE_BOOK = [
     ("MB-CAP", "Granulated cap sheet 1.25 SQ", "GAF Capsheet (granulated)", "Roll", 125, "SF", 59.90, 0.10, "Field SF", "Shop list 6/26/26", "Confirm product (Ruberoid / mineral cap)."),
     ("MB-CAP-WALL", "Granulated cap — wall flashing", "GAF Capsheet (granulated)", "Roll", 125, "SF", 59.90, 0.10, "Wall Flashing SF", "Shop list 6/26/26", ""),
     ("MB-ASPHALT", "Hot asphalt Type III, 100-lb keg", "Asphalt (price book 'Asphalt (24)')", "Keg", 400, "SF", 40.00, 0.10, "Field SF", "Shop list 6/26/26", "25 lb/SQ per mopped layer -> 400 SF/keg. Set Multiplier = mopped layers. Confirm unit."),
-    ("BUR-HDBOARD", "1/2\" high-density cover board (hot mopped)", "Product TBD (HD polyiso or gypsum board)", "Board", 32, "SF", 16.00, 0.10, "Field SF", "Marc 11/20/26 (9795 SW 170th)", "4'x8' = 32 SF assumed. Hot-mop attachment may require 4'x4' boards per NOA."),
+    ("BUR-HDBOARD", "1/2\" high-density cover board 4'x4' (hot mopped)", "Product TBD (HD polyiso or gypsum board)", "Board", 16, "SF", 16.00, 0.10, "Field SF", "Marc 11/20/26 (9795 SW 170th)", "4'x4' = 16 SF (Marc 11/20/26). $16 per 4'x4' board."),
     ("BUR-PLY4", "Fiberglass ply sheet Type IV", "GAF GAFGLAS #4 Ply Sheet", "Roll", 500, "SF", None, 0.10, "Field SF", "", "5 SQ/roll assumed - confirm. Multiplier = plies. PRICE NEEDED."),
     ("MB-CANT", "Cant strip 1x4", "Cant strip (84 LF/unit)", "EA", 84, "LF", 40.00, 0.10, "Wall Flashing LF", "Shop list 6/26/26", "Confirm unit."),
     ("MB-FLCEM", "Flashing cement (term bar seal)", "Tropical 2100", "Tube", 12, "LF", 6.15, 0.10, "Wall Flashing LF", "Shop list 6/26/26", "12 LF/tube."),
