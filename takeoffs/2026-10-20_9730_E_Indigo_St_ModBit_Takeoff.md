@@ -24,7 +24,7 @@
 | | | | | | **Tax 7%** | **1,310.57** |
 | | | | | | **Total (priced lines)** | **20,032.98** |
 
-**Not priced (TBD):** GAF StrataVent ($59.00/roll; 37.3 SQ needed, roll coverage unknown) · cover board/overlay (not in ISO quote) · 6' perimeter at 1/2":12 with LWIC/board per det. 2–4 (not in ISO quote) · scuppers (3 primary + overflows) with S.S. escutcheons · 3 collector heads + 4"x4" S.S. downspouts · canopy/eyebrow ~648 SF (excluded).
+**Not priced (TBD):** GAF StrataVent ($59.00/roll; 37.3 SQ needed. Roll is 1.25 SQ gross per the GAF sheet (11/20), so ≈30 rolls / ≈$1,770 + tax **before laps**; add rolls once lap widths are set) · cover board/overlay (not in ISO quote) · 6' perimeter at 1/2":12 with LWIC/board per det. 2–4 (not in ISO quote) · scuppers (3 primary + overflows) with S.S. escutcheons · 3 collector heads + 4"x4" S.S. downspouts · canopy/eyebrow ~648 SF (excluded).
 
 ## Option / add alternate
 | Item | Qty | Unit $ | Ext. $ |
@@ -33,7 +33,7 @@
 | 22 ga S.S. coping + A.R.B.S. cleat (~300 LF) | — | — | Sheet-metal quote |
 
 ## Items to confirm
-1. **Hot mop vs torch:** these quantities assume hot-mopped plies, but S-4.0 shows a torch cap. Waiting on the architect's reply.
+1. **Hot mop vs torch:** these quantities assume hot-mopped plies, but S-4.0 shows a torch cap. Waiting on the architect's reply. Note: the StrataVent Perforated data sheet says not to torch a mod-bit directly onto it, so a torch cap needs a mopped or other approved ply between.
 2. **StrataVent sequence over tapered ISO** (venting base usually goes on the deck). This affects the asphalt quantity and NOA compliance.
 3. **Parapet 1.5'** (Marc) vs **3'-0"** (S-4.0). A 3'-0" parapet adds ~400 SF of flashing.
 4. **Tapered ISO:** the quote area is 33.24 SQ vs 33.95 SQ measured, so have Gulfeagle confirm. Up to 5 layers on the east side. Asphalt assumes every layer is hot-mopped. Detail 4 calls for LWIC, and a cover board may be required.
