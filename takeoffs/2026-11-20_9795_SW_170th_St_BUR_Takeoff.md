@@ -50,6 +50,7 @@ Open eave all around, no parapet (confirmed by Marc): 3"Ã—3" drip edge over a 1Ã
 6. Any other penetrations (pipes, vents)? Only the A/C stand is on the sketch.
 
 ## Critical Missing Data for Miami-Dade Permitting
+- Wind zone: **HVHZ** (Marc 11/20/26). Every component needs a Miami-Dade NOA; edge metal per RAS 111.
 - Risk Category and Exposure Category
 - Zone 1 / 2 / 3 design pressures
 - Mean roof height (18'-6" provisional)
