@@ -3,12 +3,14 @@
 **Preset:** F1 hot mop. L4 is still an open item in the handoff prompt (base, ply and cap products), so this takeoff depends on it.
 **Workbook:** `xlsx/2026-11-20_9795_SW_170th_St_BUR_Takeoff_Rev0.xlsx` (built from the cost builder `bur-hot` starter).
 
-## Measurements (user, 11/20/2026). PROVISIONAL
-- Roof: flat, 52.5' × 38.5' = **2,021.25 SF (20.21 SQ)**. Perimeter 182.0 LF.
-- Height: 18'-6". Used as the mean roof height until confirmed.
-- No plan set yet. Not confirmed whether the dimensions were taken at the roof edge or at the walls.
+## Measurements (Marc's roof sketch, 11/20/2026)
+- Roof: flat, 52.5' × 38.5' = **2,021.25 SF (20.21 SQ)**; the sketch rounds it to 2,022 SF. Perimeter 182.0 LF.
+- Open eave all around (Marc), so 52.5 × 38.5 is the roof edge.
+- Roof height 18'-6" (sketch). Used as the mean roof height.
+- One A/C unit stand with 4 legs, near the west end of the north side (sketch).
+- No plan set. No drains or scuppers shown on the sketch.
 
-Roof slope: flat (slope to drains TBD) · Total 2,021.25 SF / 20.21 SQ · Drip edge LF: 182 · L-flashing / wall LF: 0 (open edge) · Hip & ridge: n/a · Valley: n/a · Rake: n/a · Penetrations: TBD
+Roof slope: flat (slope to drains TBD) · Total 2,021.25 SF / 20.21 SQ · Drip edge LF: 182 · L-flashing / wall LF: 0 (open edge) · Hip & ridge: n/a · Valley: n/a · Rake: n/a · Penetrations: A/C stand, 4 legs (4 pitch pans)
 
 ## Field takeoff (10% waste on sheets and asphalt)
 | Category | Material / Accessory Item | Location/Zone | Net Qty | Waste % | Gross Qty | Order Unit | Technical / HVHZ Note |
@@ -25,19 +27,21 @@ Roof slope: flat (slope to drains TBD) · Total 2,021.25 SF / 20.21 SQ · Drip e
 | Fasteners/Adhesives | Tapcon 1/4" × 1-3/4" (100/box) | Nailer to concrete | 182 EA (12" o.c.) | 10% | 200 EA | **3 boxes** | 12" o.c. single row assumed. Confirm spacing per RAS 111 / the design. |
 | Flashing/Edges | 3"×3" drip edge, 10' | Perimeter, open edge | 182 LF | 10% | 200.2 LF | **21 pcs** @ $8.50 = $178.50 (Marc 11/20) | Gauge and metal TBD. Set in flashing cement, stripped in. Edge-metal fastening per RAS 111. |
 | Fasteners/Adhesives | Flashing cement, Tropical 2100 | Under drip edge flange | 182 LF | 10% | 200.2 LF | **17 tubes** | 12 LF/tube. |
+| Flashing/Edges | Pitch pans, galvanized | A/C stand legs | 4 EA | — | 4 EA | **4 EA** | Size to the leg. Price needed. Alternative: prefab leg flashings. |
+| Fasteners/Adhesives | Pitch pan filler / pourable sealer | A/C stand legs | 4 pans | — | — | **4 (1 per pan assumed)** | Product and price needed. |
 
-**Priced so far:** subtotal $5,415.92 · tax 7% $379.11 · **$5,795.03**. This leaves out the Tapcons (no price yet).
+**Priced so far:** subtotal $5,415.92 · tax 7% $379.11 · **$5,795.03**. This leaves out the Tapcons, pitch pans and filler (no prices yet).
 
 ## Perimeter
-Open edge all around (no parapet): 3"×3" drip edge over a 1×6 wood nailer fastened to the concrete with Tapcons (Marc, 11/20/2026). Perimeter 182 LF. Drip edge LF = 182. L-flashing / wall LF = 0.
+Open eave all around, no parapet (confirmed by Marc): 3"×3" drip edge over a 1×6 wood nailer fastened to the concrete with Tapcons (Marc, 11/20/2026). Perimeter 182 LF. Drip edge LF = 182. L-flashing / wall LF = 0.
 
 ## Open items
 1. Price: Tapcons. (Nailer $5.95 per 10' board, Marc 11/20.) Drip edge gauge / metal ($8.50/pc, Marc 11/20). Drip-edge nails into the nailer are not in the takeoff yet.
-2. Were the 52.5 × 38.5 dimensions taken at the roof edge or at the walls?
+2. A/C stand legs: leg size, and pitch pans or prefab leg flashings? Is the unit lifted during the reroof?
 3. Is 18'-6" measured to the roof surface? (No parapet, so it is used as the mean roof height.)
 4. Products: HD board (polyiso or gypsum; 4×4 confirmed), cap sheet roll size, #4 ply coverage. Prices so far: board $16 each, GAF Ply 4 $53/roll (Marc 11/20).
-5. Re-roof (how many layers to remove) or new? Drains / scuppers, and any slope or crickets?
-6. Penetrations: pipes, vents, AC stands.
+5. Re-roof (how many layers to remove) or new? No drains on the sketch: does the roof drain off the open eave (gutters?), and is there any slope or crickets?
+6. Any other penetrations (pipes, vents)? Only the A/C stand is on the sketch.
 
 ## Critical Missing Data for Miami-Dade Permitting
 - Risk Category and Exposure Category
