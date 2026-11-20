@@ -11,7 +11,7 @@
 - No plan set. No drains or scuppers: the roof drains off the open eave (Marc).
 - **Re-roof** (Marc). Existing roof system and number of layers to remove: TBD.
 
-Roof slope: flat, drains off the open eave (slope TBD) · Total 2,021.25 SF / 20.21 SQ · Drip edge LF: 182 · L-flashing / wall LF: 0 (open edge) · Hip & ridge: n/a · Valley: n/a · Rake: n/a · Penetrations: A/C stand, 4 legs (4 pitch pans)
+Roof slope: flat, drains off the open eave (slope TBD) · Total 2,021.25 SF / 20.21 SQ · Drip edge LF: 182 · L-flashing / wall LF: 0 (open edge) · Hip & ridge: n/a · Valley: n/a · Rake: n/a · Penetrations: A/C stand, 4 legs (4 pitch pans built on site)
 
 ## Field takeoff (10% waste on sheets and asphalt)
 | Category | Material / Accessory Item | Location/Zone | Net Qty | Waste % | Gross Qty | Order Unit | Technical / HVHZ Note |
@@ -28,21 +28,21 @@ Roof slope: flat, drains off the open eave (slope TBD) · Total 2,021.25 SF / 20
 | Fasteners/Adhesives | Tapcon 1/4" × 1-3/4" (100/box) | Nailer to concrete | 182 EA (12" o.c.) | 10% | 200 EA | **3 boxes** | 12" o.c. single row assumed. Confirm spacing per RAS 111 / the design. |
 | Flashing/Edges | 3"×3" drip edge, 10' | Perimeter, open edge | 182 LF | 10% | 200.2 LF | **21 pcs** @ $8.50 = $178.50 (Marc 11/20) | Gauge and metal TBD. Set in flashing cement, stripped in. Edge-metal fastening per RAS 111. |
 | Fasteners/Adhesives | Flashing cement, Tropical 2100 | Under drip edge flange | 182 LF | 10% | 200.2 LF | **17 tubes** | 12 LF/tube. |
-| Flashing/Edges | Pitch pans, galvanized | A/C stand legs | 4 EA | — | 4 EA | **4 EA** | Size to the leg. Price needed. Alternative: prefab leg flashings. |
+| Flashing/Edges | 3"×3" drip edge, 10', for pitch pans built on site | A/C stand legs (4) | — | — | — | **2 pcs** @ $8.50 = $17.00 | Built on site (Marc 11/20). |
 | Fasteners/Adhesives | Pitch pan filler / pourable sealer | A/C stand legs | 4 pans | — | — | **4 (1 per pan assumed)** | Product and price needed. |
 
-**Priced so far:** subtotal $5,415.92 · tax 7% $379.11 · **$5,795.03**. This leaves out the Tapcons, pitch pans and filler (no prices yet).
+**Priced so far:** subtotal $5,432.92 · tax 7% $380.30 · **$5,813.22**. This leaves out the Tapcons and pitch pan filler (no prices yet).
 
 **Other job costs (no sales tax):** dump truck $775.00 · permit runner $300.00 (Marc 11/20) = **$1,075.00**. Permit fee / NOA package: TBD.
 
-**Grand total so far: $6,870.03** (material $5,795.03 + job costs $1,075.00).
+**Grand total so far: $6,888.22** (material $5,813.22 + job costs $1,075.00).
 
 ## Perimeter
 Open eave all around, no parapet (confirmed by Marc): 3"×3" drip edge over a 1×6 wood nailer fastened to the concrete with Tapcons (Marc, 11/20/2026). Perimeter 182 LF. Drip edge LF = 182. L-flashing / wall LF = 0.
 
 ## Open items
 1. Price: Tapcons. (Nailer $5.95 per 10' board, Marc 11/20.) Drip edge gauge / metal ($8.50/pc, Marc 11/20). Drip-edge nails into the nailer are not in the takeoff yet.
-2. A/C stand legs: leg size, and pitch pans or prefab leg flashings? Is the unit lifted during the reroof?
+2. A/C stand: pitch pan filler product and price. Is the unit lifted during the reroof?
 3. Is 18'-6" measured to the roof surface? (No parapet, so it is used as the mean roof height.)
 4. Products: HD board (polyiso or gypsum; 4×4 confirmed), cap sheet roll size, #4 ply coverage. Prices so far: board $16 each, GAF Ply 4 $53/roll (Marc 11/20).
 5. Re-roof: existing roof system and number of layers to remove (deck prep; dump truck priced at $775). Concrete deck condition after tear-off. No drains: confirm the deck slopes to the eaves (ponding risk); gutters by others?
