@@ -106,6 +106,7 @@ PRICE_BOOK = [
     ("NAILER-1X6", "Wood nailer 1x6 PT 16'", "1x6x16 pressure-treated", "PC", 16, "LF", None, 0.10, "Drip Edge LF", "", "Perimeter nailer under edge metal. Length assumed 16' - confirm. PRICE NEEDED."),
     ("TAPCON", "Tapcon 1/4\" x 1-3/4\" (100/box)", "Tapcon concrete screw 1/4 x 1-3/4", "Box", 100, "EA", None, 0.10, "Drip Edge LF", "", "Nailer to concrete. 1 per LF = 12\" o.c. assumed; spacing per RAS 111 / design - confirm. Multiplier = rows. PRICE NEEDED."),
     ("DRIPEDGE", "Drip edge (A1)", "Gauge / metal TBD", "PC", 10, "LF", None, 0.10, "Drip Edge LF", "", "A1 draft. PRICE NEEDED."),
+    ("DRIPEDGE-3X3", "Drip edge 3\"x3\" 10'", "3\"x3\" drip edge (gauge / metal TBD)", "PC", 10, "LF", 8.50, 0.10, "Drip Edge LF", "Marc 11/20/26 (9795 SW 170th)", "Set in flashing cement and strip in per NOA."),
     ("COPING", "Metal coping cap + cleat", "Gauge / finish TBD", "LF", 1, "LF", None, 0.10, "Coping LF", "", "Sheet-metal quote needed."),
     # --- Insulation (L5 / A6) ---
     ("ISO-TAPER-LS", "Tapered ISO system (supplier quote)", "Gulfeagle tapered quote #", "LS", 1, "JOB", None, 0, "Per Job", "", "Enter quote $ in Unit Cost Override + quote # and expiry in Notes."),
