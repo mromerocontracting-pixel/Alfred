@@ -103,7 +103,7 @@ PRICE_BOOK = [
     ("STUCCOSTOP", "Counterflashing stucco stop 5\" 26 ga 10'", "Stucco stop galv", "PC", 10, "LF", 8.15, 0.10, "Wall Flashing LF", "Price book", "Alt: 2-part SS reglet — price TBD."),
     ("SEAL-915", "Sealant (top of counterflashing)", "Bostik 915 white", "Tube", 12, "LF", 4.90, 0.10, "Wall Flashing LF", "Shop list 6/26/26", "12 LF/tube."),
     ("NAILER-2X8", "Wood nailer 2x8x10", "2x8x10 (confirm PT / width)", "EA", 10, "LF", 10.85, 0.10, "Coping LF", "Shop list 6/26/26", "Confirm pressure-treated."),
-    ("NAILER-1X6", "Wood nailer 1x6 PT 16'", "1x6x16 pressure-treated", "PC", 16, "LF", None, 0.10, "Drip Edge LF", "", "Perimeter nailer under edge metal. Length assumed 16' - confirm. PRICE NEEDED."),
+    ("NAILER-1X6", "Wood nailer 1x6 PT 10'", "1x6x10 pressure-treated", "PC", 10, "LF", 5.95, 0.10, "Drip Edge LF", "Marc 11/20/26 (9795 SW 170th)", "Perimeter nailer under edge metal. $5.95 per 10' board."),
     ("TAPCON", "Tapcon 1/4\" x 1-3/4\" (100/box)", "Tapcon concrete screw 1/4 x 1-3/4", "Box", 100, "EA", None, 0.10, "Drip Edge LF", "", "Nailer to concrete. 1 per LF = 12\" o.c. assumed; spacing per RAS 111 / design - confirm. Multiplier = rows. PRICE NEEDED."),
     ("DRIPEDGE", "Drip edge (A1)", "Gauge / metal TBD", "PC", 10, "LF", None, 0.10, "Drip Edge LF", "", "A1 draft. PRICE NEEDED."),
     ("DRIPEDGE-3X3", "Drip edge 3\"x3\" 10'", "3\"x3\" drip edge (gauge / metal TBD)", "PC", 10, "LF", 8.50, 0.10, "Drip Edge LF", "Marc 11/20/26 (9795 SW 170th)", "Set in flashing cement and strip in per NOA."),
