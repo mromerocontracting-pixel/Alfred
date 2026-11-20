@@ -46,29 +46,30 @@ For tile, also calculate adhesive (foam paddies or pails) and trim counts per th
 | L1 | Polyglass Elastobase (mechanically attached, tin tags or caps per NOA row spacing) | Polyglass Polyflex SA P (APP) | Base 2.0 SQ / Cap 1.0 SQ (confirm cap net coverage on the Polyflex SA P data sheet) |
 | L2 | Polyglass Elastoflex SA V (self-adhered) | Polyglass Polyflex SA P (APP) | Base 2.0 SQ / Cap 1.0 SQ (confirm cap net coverage on the Polyflex SA P data sheet) |
 | L3 | CertainTeed Flintlastic SA NailBase / PlyBase | CertainTeed Flintlastic SA Cap | Base 2.0 SQ / Cap 1.0 SQ |
-| L4 | Mod-bit, hot mop (Type III asphalt) | Base, ply, and cap products to be confirmed | To be confirmed |
+| L4 | Mod-bit, hot mop (Type III asphalt): GAF #75 base + GAF 20 smooth ply | GAF granule-surfaced cap | Coverage per GAF data sheets: confirm before first use |
 
 Assume 2-ply on flat roofs unless told otherwise. Always calculate base and cap separately.
 
-## Draft Presets (pending confirmation)
-These are placeholders. Do not use a draft preset in a takeoff until its products, coverage, and NOA/FL# are filled in. If a job calls for one, list each blank under **"Critical Missing Data for Miami-Dade Permitting"**.
+## Additional Presets
+Products are set for S1, F3, F4, U-S1, L5 and L6 (11/20/2026). Coverage marked "confirm" must be checked on the manufacturer's data sheet before the first takeoff that uses it. Anything still TBD is a placeholder: list it under **"Critical Missing Data for Miami-Dade Permitting"** if a job calls for it.
+
+**NOA rule:** All products are Miami-Dade approved. The specific NOA number and expiry date are pulled per job for the permit package (Marc's permit runner handles permits/NOAs) and recorded on that job's takeoff. Never write an NOA number from memory.
 
 ### Additional Coverings
 | ID | Covering | Track | Product / NOA | Coverage |
 |---|---|---|---|---|
-| S1 | Architectural asphalt shingle | Bundles per SQ, starter LF, hip & ridge cap LF, nails per shingle per NOA | TBD | TBD |
-| M2 | 5V crimp metal | Panel coverage width, gauge, fastener spacing per NOA, full trim package | TBD | TBD |
-| F3 | TPO single-ply | Fully adhered or mechanically attached; detail membrane at walls/parapets; bonding adhesive; seam cleaner | Used on Solano Prado and 5340 Riviera: GAF EverGuard TPO 60-mil white, 5'×100' roll (#7561920), UN-55 detail 24"×50' (#7624920TP), GAF #1121 bonding adhesive 5 gal (HAZMAT). NOA: TBD | 5 SQ per roll gross; waste 10% membrane/flashing, 5% adhesive (Solano Prado price book) |
-| F4 | Roof coating (acrylic or silicone) | Gallons per SQ per coat, number of coats, primer, reinforcing fabric at seams | TBD | TBD |
+| S1 | Architectural asphalt shingle | Bundles per SQ, starter LF, hip & ridge cap LF, nails per shingle per NOA | GAF Timberline HDZ. Miami-Dade approved | 3 bundles per SQ (confirm starter and hip/ridge coverage on the GAF sheet) |
+| F3 | TPO single-ply | Fully adhered or mechanically attached; detail membrane at walls/parapets; bonding adhesive; seam cleaner | Used on Solano Prado and 5340 Riviera: GAF EverGuard TPO 60-mil white, 5'×100' roll (#7561920), UN-55 detail 24"×50' (#7624920TP), GAF #1121 bonding adhesive 5 gal (HAZMAT). Miami-Dade approved | 5 SQ per roll gross; waste 10% membrane/flashing, 5% adhesive (Solano Prado price book) |
+| F4 | Roof coating (acrylic or silicone) | Gallons per SQ per coat, number of coats, primer, reinforcing fabric at seams | GAF or Tremco; acrylic or silicone chosen per job. Miami-Dade approved | Per the chosen product's data sheet |
 
 ### Additional Underlayments / Assemblies
 | ID | Use | Product(s) | Net Coverage per Roll |
 |---|---|---|---|
 | T4 | Tile, alternate | TBD | TBD |
-| U-S1 | Shingle underlayment | TBD | TBD |
+| U-S1 | Shingle underlayment | Polyglass Polystick IR-XE, direct to deck | Per Polyglass data sheet: confirm before first use |
 | U-M2 | Metal, alternate | TBD | TBD |
-| L5 | Single-ply assembly: tapered ISO (1/4"/ft) + F3 TPO | Tapered ISO by supplier taper layout; insulation adhesive and cover board per NOA: TBD | Taper: supplier quote |
-| L6 | Nail-base re-cover | Used on 4197 Douglas Rd: Atlas ISO nail base (3.0" polyiso + 5/8" CDX, R-18.2) with CertainTeed underlayment. NOA: TBD | Panel SF: TBD |
+| L5 | Single-ply assembly: tapered ISO (1/4"/ft) + F3 TPO | Tapered ISO by supplier taper layout; Miami-Dade approved assembly; insulation adhesive and cover board per that NOA (products still to name) | Taper: supplier quote |
+| L6 | Nail-base re-cover | Used on 4197 Douglas Rd: Atlas ISO nail base (3.0" polyiso + 5/8" CDX, R-18.2) with CertainTeed underlayment. Miami-Dade approved | Panel SF: TBD |
 
 ### Repair Scopes
 Repairs are quantity-driven, not SQ-driven. Ask for the count, LF, or SF of each item. Before pricing any repair, flag it if the work could exceed **25% of the roof or roof section within 12 months**, which can trigger a full re-roof under the Florida Building Code (confirm the code section that applies to the job).
@@ -93,14 +94,14 @@ Repairs are quantity-driven, not SQ-driven. Ask for the count, LF, or SF of each
 ### Accessories & Add-ons (any job)
 | ID | Item | Unit | Product / NOA |
 |---|---|---|---|
-| A1 | Drip edge (specify gauge and metal; copper used on 4197 Douglas Rd) | LF | TBD |
-| A2 | Off-ridge / ridge vents | EA or LF | TBD |
+| A1 | Drip edge, 3" x 3" x 10' (specify gauge and metal; copper used on 4197 Douglas Rd) | LF (10' pcs) | Miami-Dade approved |
+| A2 | Gooseneck vents (standard); off-ridge / ridge vents if specified | EA or LF | Miami-Dade approved |
 | A3 | Turbines / gable vents | EA | TBD |
 | A4 | Lead or neoprene pipe boots | EA | TBD |
 | A5 | Gutters and downspouts | LF / EA | TBD |
 | A6 | Insulation (flat roofs) | SF, R-value | TBD |
 | A7 | Plywood re-nailing on re-roofs | SQ | Nail type and spacing per code |
-| A8 | Dumpster / debris haul | EA | Size TBD |
+| A8 | Debris haul: dump truck, 10–13 yd | Loads | — |
 | A9 | Permit and NOA package | EA | — |
 
 ## Waste Rules
@@ -125,9 +126,18 @@ Always report: roof slope, total SQFT / SQ, drip edge LF, L-flashing LF, hip & r
 - Mark any inferred geometry as provisional.
 
 ## Open Items (still to confirm)
-1. **L4 mod-bit (hot mop):** Which base, ply, and cap products? Method is settled: hot mop with Type III asphalt.
+1. **Data-sheet coverages:** confirm net coverage per roll for GAF #75 base, GAF 20 smooth, GAF granule cap, Polystick IR-XE, and Polyflex SA P.
+2. **L5 / L6:** name the insulation adhesive and cover board normally used.
+3. **A1 drip edge:** standard gauge and metal (aluminum, galvanized, copper).
+4. **A3–A6:** turbines/gable vents, pipe boots, gutters/downspouts, flat-roof insulation still TBD.
 
 ## Settled Items
+- **L4 products** (11/20/2026): GAF #75 base + GAF 20 smooth ply + GAF granule-surfaced cap, hot mop.
+- **S1 / U-S1** (11/20/2026): GAF Timberline HDZ over Polyglass Polystick IR-XE direct to deck.
+- **M2 5V crimp** (11/20/2026): removed from the presets.
+- **F4** (11/20/2026): GAF or Tremco coatings, acrylic or silicone per job.
+- **NOAs** (11/20/2026): products are Miami-Dade approved; NOA # pulled per job.
+- **A1 / A2 / A8** (11/20/2026): 3"x3"x10' drip edge, gooseneck vents, 10–13 yd dump truck.
 - **T3** (11/20/2026): CertainTeed Flintlastic SA Cap alone, direct to deck, is its own single-ply tile option.
 - **TileSeal roll size** (11/20/2026): use 3' x 72' per Westlake's current brochure. Nets 2.0 SQ.
 - **"SAP" cap** (11/20/2026): Polyglass Polyflex SA P (APP), not Elastoflex SA P (SBS). Applies to L1 and L2.
