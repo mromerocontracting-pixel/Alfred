@@ -109,6 +109,7 @@ PRICE_BOOK = [
     ("DRIPEDGE-3X3", "Drip edge 3\"x3\" 10'", "3\"x3\" drip edge (gauge / metal TBD)", "PC", 10, "LF", 8.50, 0.10, "Drip Edge LF", "Marc 11/20/26 (9795 SW 170th)", "Set in flashing cement and strip in per NOA."),
     ("PITCHPAN", "Pitch pan (equipment stand leg)", "Galvanized pitch pan - size to leg", "EA", 1, "EA", None, 0, "Manual", "", "1 per stand leg. Size TBD from leg dimensions. PRICE NEEDED."),
     ("PP-FILLER", "Pitch pan filler / pourable sealer", "Product TBD", "EA", None, "", None, 0, "Manual", "", "Qty depends on pan size. PRICE NEEDED."),
+    ("NAIL-RS114", "Ring shank nails 1-1/4\" (Miami-Dade approved)", "Galv. ring shank roofing nail 1-1/4\"", "EA", 1, "EA", None, 0.10, "Drip Edge LF", "", "Edge metal to wood nailer. Multiplier = nails per LF (3 = 4\" o.c. per RAS 111 - confirm). Order unit / box size TBD. PRICE NEEDED."),
     ("COPING", "Metal coping cap + cleat", "Gauge / finish TBD", "LF", 1, "LF", None, 0.10, "Coping LF", "", "Sheet-metal quote needed."),
     # --- Insulation (L5 / A6) ---
     ("ISO-TAPER-LS", "Tapered ISO system (supplier quote)", "Gulfeagle tapered quote #", "LS", 1, "JOB", None, 0, "Per Job", "", "Enter quote $ in Unit Cost Override + quote # and expiry in Notes."),

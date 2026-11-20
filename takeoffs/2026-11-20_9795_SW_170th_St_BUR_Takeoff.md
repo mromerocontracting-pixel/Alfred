@@ -27,11 +27,12 @@ Roof slope: flat, drains off the open eave (slope TBD) · Total 2,021.25 SF / 20
 | Flashing/Edges | 1×6 PT wood nailer, 10' | Perimeter | 182 LF | 10% | 200.2 LF | **21 pcs** @ $5.95 = $124.95 (Marc 11/20) | Nailer is 3/4" thick vs the 1/2" board, so confirm shimming or a 2-layer build-up. |
 | Fasteners/Adhesives | Tapcon 1/4" × 1-3/4" (100/box) | Nailer to concrete | 182 EA (12" o.c.) | 10% | 200 EA | **3 boxes** | 12" o.c. single row assumed. Confirm spacing per RAS 111 / the design. |
 | Flashing/Edges | 3"×3" drip edge, 10' | Perimeter, open edge | 182 LF | 10% | 200.2 LF | **21 pcs** @ $8.50 = $178.50 (Marc 11/20) | Gauge and metal TBD. Set in flashing cement, stripped in. Edge-metal fastening per RAS 111. |
+| Fasteners/Adhesives | Ring shank nails 1-1/4", Miami-Dade approved | Drip edge to nailer | 546 EA (182 LF @ 4" o.c.) | 10% | 601 EA | **601 EA** (box size TBD) | 4" o.c. per RAS 111 assumed. Confirm spacing. Price needed. |
 | Fasteners/Adhesives | Flashing cement, Tropical 2100 | Under drip edge flange | 182 LF | 10% | 200.2 LF | **17 tubes** | 12 LF/tube. |
 | Flashing/Edges | 3"×3" drip edge, 10', for pitch pans built on site | A/C stand legs (4) | — | — | — | **2 pcs** @ $8.50 = $17.00 | Built on site (Marc 11/20). |
 | Fasteners/Adhesives | Pitch pan filler / pourable sealer | A/C stand legs | 4 pans | — | — | **4 (1 per pan assumed)** | Product and price needed. |
 
-**Priced so far:** subtotal $5,432.92 · tax 7% $380.30 · **$5,813.22**. This leaves out the Tapcons and pitch pan filler (no prices yet).
+**Priced so far:** subtotal $5,432.92 · tax 7% $380.30 · **$5,813.22**. This leaves out the Tapcons, ring shank nails and pitch pan filler (no prices yet).
 
 **Other job costs (no sales tax):** dump truck $775.00 · permit runner $300.00 (Marc 11/20) = **$1,075.00**. Permit fee / NOA package: TBD.
 
@@ -41,7 +42,7 @@ Roof slope: flat, drains off the open eave (slope TBD) · Total 2,021.25 SF / 20
 Open eave all around, no parapet (confirmed by Marc): 3"×3" drip edge over a 1×6 wood nailer fastened to the concrete with Tapcons (Marc, 11/20/2026). Perimeter 182 LF. Drip edge LF = 182. L-flashing / wall LF = 0.
 
 ## Open items
-1. Price: Tapcons. (Nailer $5.95 per 10' board, Marc 11/20.) Drip edge gauge / metal ($8.50/pc, Marc 11/20). Drip-edge nails into the nailer are not in the takeoff yet.
+1. Price: Tapcons. (Nailer $5.95 per 10' board, Marc 11/20.) Drip edge gauge / metal ($8.50/pc, Marc 11/20).
 2. A/C stand: pitch pan filler product and price. Is the unit lifted during the reroof?
 3. Is 18'-6" measured to the roof surface? (No parapet, so it is used as the mean roof height.)
 4. Products: HD board (polyiso or gypsum; 4×4 confirmed), cap sheet roll size, #4 ply coverage. Prices so far: board $16 each, GAF Ply 4 $53/roll (Marc 11/20).
