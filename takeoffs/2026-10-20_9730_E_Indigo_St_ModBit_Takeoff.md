@@ -24,7 +24,7 @@
 | | | | | | **Tax 7%** | **1,310.57** |
 | | | | | | **Total (priced lines)** | **20,032.98** |
 
-**Not priced (TBD):** GAF StrataVent ($59.00/roll; 37.3 SQ needed. Roll is 1.25 SQ gross per the GAF sheet (11/20), so ≈30 rolls / ≈$1,770 + tax **before laps**; add rolls once lap widths are set) · cover board/overlay (not in ISO quote) · 6' perimeter at 1/2":12 with LWIC/board per det. 2–4 (not in ISO quote) · scuppers (3 primary + overflows) with S.S. escutcheons · 3 collector heads + 4"x4" S.S. downspouts · canopy/eyebrow ~648 SF (excluded).
+**Not priced (TBD):** GAF StrataVent ($59.00/roll; 37.3 SQ needed. Roll is 1.25 SQ gross / 1.11 SQ net with 6" laps (11/20), so **34 rolls ≈ $2,006 + tax**) · cover board/overlay (not in ISO quote) · 6' perimeter at 1/2":12 with LWIC/board per det. 2–4 (not in ISO quote) · scuppers (3 primary + overflows) with S.S. escutcheons · 3 collector heads + 4"x4" S.S. downspouts · canopy/eyebrow ~648 SF (excluded).
 
 ## Option / add alternate
 | Item | Qty | Unit $ | Ext. $ |

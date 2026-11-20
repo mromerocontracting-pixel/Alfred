@@ -46,7 +46,7 @@ For tile, also calculate adhesive (foam paddies or pails) and trim counts per th
 | L1 | Polyglass Elastobase (mechanically attached, tin tags or caps per NOA row spacing) | Polyglass Polyflex SA P (APP) | Base 2.0 SQ / Cap 1.0 SQ (confirm cap net coverage on the Polyflex SA P data sheet) |
 | L2 | Polyglass Elastoflex SA V (self-adhered) | Polyglass Polyflex SA P (APP) | Base 2.0 SQ / Cap 1.0 SQ (confirm cap net coverage on the Polyflex SA P data sheet) |
 | L3 | CertainTeed Flintlastic SA NailBase / PlyBase | CertainTeed Flintlastic SA Cap | Base 2.0 SQ / Cap 1.0 SQ |
-| L4 | Mod-bit, hot mop (Type III asphalt). Base: GAF #75 base or GAFGLAS StrataVent Perforated (used on 9730 E Indigo); ply: GAF Ruberoid 20 Smooth | GAFGLAS Mineral Surfaced Cap | Base: StrataVent 1.25 SQ/roll, #75 base sheet not on file · Ply: 20 Smooth 1.5 SQ/roll · Cap: 1.0 or 1.25 SQ/roll (all gross; see Data Sheet Library) |
+| L4 | Mod-bit, hot mop (Type III asphalt). Base: **GAF #75 base (standard)**; StrataVent Perforated as alternate (used on 9730 E Indigo); ply: GAF Ruberoid 20 Smooth | GAFGLAS Mineral Surfaced Cap | Net with 6" laps: 20 Smooth 1.35 SQ · Cap 0.89 (1 SQ roll) / 1.11 (1.25 SQ roll) · StrataVent 1.11 · #75 base: data sheet not on file |
 
 Assume 2-ply on flat roofs unless told otherwise. Always calculate base and cap separately.
 
@@ -105,15 +105,15 @@ Repairs are quantity-driven, not SQ-driven. Ask for the count, LF, or SF of each
 | A9 | Permit and NOA package | EA | — |
 
 ## Data Sheet Library (from manufacturer sheets, 11/20/2026)
-Images are saved in `reference/data-sheets/`. GAF lists **gross** roll size only ("does not calculate installation using side and end lap recommendations"). For GAF sheets, deduct side and end laps per the job's NOA / GAF application spec before dividing; don't treat gross as net.
+Images are saved in `reference/data-sheets/`. GAF lists **gross** roll size only ("does not calculate installation using side and end lap recommendations"). **Standard laps: 6" side and 6" end** (Marc, 11/20/2026). Net = (roll width − 6") × (roll length − 6"). The Net SQ column below already applies this; use it for roll counts, then add waste. If a job's NOA requires different laps, recalculate.
 
 | Product | Use | Item / Code | Roll | Gross SF | Gross SQ | Net SQ | Notes |
 |---|---|---|---|---|---|---|---|
-| GAF Ruberoid 20 Smooth | Mod-bit base or interply (SBS, glass mat, ASTM D6163 Type I Gr S) | 3706 | 39.375" x 49'2" | 161.3 | 1.5 | Gross − laps | Hot asphalt, cold, or mech. fastened. 89 lb, 30/pallet. Miami-Dade approved |
-| GAF Ruberoid Mop Smooth | Mod-bit ply (SBS, polyester mat, ASTM D6164 Type I Gr S) | 3703 | 39.675" x 32'6" | 107.4 | 1.0 | Gross − laps | Hot asphalt, cold, or mech. fastened. Smooth surface must be protected with surfacing. 83 lb. Miami-Dade approved |
-| GAFGLAS StrataVent Perforated | Venting base sheet (ASTM D4897 Type II) | 3304 | 39.375" x 40'6" | 132.89 | 1.25 | Gross − laps | Hot asphalt or cold. **Do not torch a mod-bit directly onto it.** Replaces cover board + 2 mopped layers over polyiso. 70 lb. Miami-Dade approved |
-| GAFGLAS Ply 4 | BUR ply felt; also base sheet or flashing (ASTM D2178 Type IV) | 3103 | 39.5" x 161'8" | 530.4 | 5.0 | Gross − laps | 40 lb, 25/pallet. Approvals list on the sheet cut off; confirm Miami-Dade status |
-| GAFGLAS Mineral Surfaced Cap | BUR cap / top ply in base flashing (ASTM D3909) | 3403 (1 SQ) / 3404 (1.25 SQ) | 39.375" x 32'6" / 40'6" | 106.6 / 132.9 | 1.0 / 1.25 | Gross − laps | 3" selvage. 68 / 87.5 lb. Miami-Dade approved |
+| GAF Ruberoid 20 Smooth | Mod-bit base or interply (SBS, glass mat, ASTM D6163 Type I Gr S) | 3706 | 39.375" x 49'2" | 161.3 | 1.5 | **1.35** | Hot asphalt, cold, or mech. fastened. 89 lb, 30/pallet. Miami-Dade approved |
+| GAF Ruberoid Mop Smooth | Mod-bit ply (SBS, polyester mat, ASTM D6164 Type I Gr S) | 3703 | 39.675" x 32'6" | 107.4 | 1.0 | **0.90** | Hot asphalt, cold, or mech. fastened. Smooth surface must be protected with surfacing. 83 lb. Miami-Dade approved |
+| GAFGLAS StrataVent Perforated | Venting base sheet (ASTM D4897 Type II) | 3304 | 39.375" x 40'6" | 132.89 | 1.25 | **1.11** | Hot asphalt or cold. **Do not torch a mod-bit directly onto it.** Replaces cover board + 2 mopped layers over polyiso. 70 lb. Miami-Dade approved |
+| GAFGLAS Ply 4 | BUR ply felt; also base sheet or flashing (ASTM D2178 Type IV) | 3103 | 39.5" x 161'8" | 530.4 | 5.0 | **4.50** (lapped; shingled BUR plies figure differently) | 40 lb, 25/pallet. Approvals list on the sheet cut off; confirm Miami-Dade status |
+| GAFGLAS Mineral Surfaced Cap | BUR cap / top ply in base flashing (ASTM D3909) | 3403 (1 SQ) / 3404 (1.25 SQ) | 39.375" x 32'6" / 40'6" | 106.6 / 132.9 | 1.0 / 1.25 | **0.89 / 1.11** | 3" selvage. 68 / 87.5 lb. Miami-Dade approved |
 | Polyglass Polystick IR-XE | Shingle underlayment, SA, granular (ASTM D1970) | 7511112000 | 36" x 65'4" | 195 | 1.95 | **1.8 (180 SF)** | Net given by Polyglass. 90-day exposure. 48 lb, 35/pallet. Miami-Dade approved |
 | Westlake Citadel PRO | SA tile/metal base sheet (ASTM D1970) | 92812 (2 SQ roll) | 3' x 66.7' | 200 | 2.0 | 2.0 (as listed) | FL14317, HVHZ and non-HVHZ. 62 lb, 30/pallet. Used as T2 base |
 
@@ -139,14 +139,15 @@ Always report: roof slope, total SQFT / SQ, drip edge LF, L-flashing LF, hip & r
 - Mark any inferred geometry as provisional.
 
 ## Open Items (still to confirm)
-1. **Lap widths for GAF sheets:** side and end laps to deduct from gross for 20 Smooth, Mop Smooth, StrataVent, Ply 4, and Mineral Surfaced Cap (per NOA / GAF spec).
-2. **Still need data sheets:** GAF #75 base sheet, Polyglass Polyflex SA P, Westlake TileSeal, CertainTeed Flintlastic SA Cap, GAF Timberline HDZ.
-3. **L4 base:** #75 base vs StrataVent Perforated as the standard. Where do Mop Smooth and Ply 4 fit (alternates)?
-4. **L5 / L6:** name the insulation adhesive and cover board normally used.
-5. **A1 drip edge:** standard gauge and metal (aluminum, galvanized, copper).
-6. **A3–A6:** turbines/gable vents, pipe boots, gutters/downspouts, flat-roof insulation still TBD.
+1. **Still need data sheets:** GAF #75 base sheet, Polyglass Polyflex SA P, Westlake TileSeal, CertainTeed Flintlastic SA Cap, GAF Timberline HDZ.
+2. **Mop Smooth and Ply 4:** alternates on file; confirm where they're used.
+3. **L5 / L6:** name the insulation adhesive and cover board normally used.
+4. **A1 drip edge:** standard gauge and metal (aluminum, galvanized, copper).
+5. **A3–A6:** turbines/gable vents, pipe boots, gutters/downspouts, flat-roof insulation still TBD.
 
 ## Settled Items
+- **Laps** (11/20/2026): 6" side and 6" end on GAF roll goods.
+- **L4 base** (11/20/2026): GAF #75 base is standard; StrataVent is an alternate.
 - **Data sheets on file** (11/20/2026): Ruberoid 20 Smooth, Ruberoid Mop Smooth, StrataVent Perforated, Ply 4, Mineral Surfaced Cap, Polystick IR-XE, Citadel PRO. See Data Sheet Library.
 - **L4 products** (11/20/2026): GAF #75 base + GAF 20 smooth ply + GAF granule-surfaced cap, hot mop.
 - **S1 / U-S1** (11/20/2026): GAF Timberline HDZ over Polyglass Polystick IR-XE direct to deck.
