@@ -15,13 +15,13 @@ Roof slope: flat (slope to drains TBD) · Total 2,021.25 SF / 20.21 SQ · Drip e
 |---|---|---|---|---|---|---|---|
 | Underlayment/Moisture Barriers | Asphalt primer, Tropical 410 5 gal | Concrete deck | 2,021.25 SF | 0% | 2,021.25 SF | **5 pails** | ~100 SF/gal assumed. Add the wall area once parapets are known. |
 | Field Materials | 1/2" high-density cover board, 4'×4', hot mopped | Field | 2,021.25 SF | 10% | 2,223.4 SF | **139 boards** (16 SF each) @ $16.00 = $2,224.00 (Marc 11/20) | Product and NOA TBD. |
-| Underlayment/Moisture Barriers | GAF GAFGLAS #4 ply sheet, 2 plies | Field | 4,042.5 SF (2 × field) | 10% | 4,446.8 SF | **9 rolls** | 5 SQ/roll assumed. Confirm against the GAF data sheet. |
+| Underlayment/Moisture Barriers | GAF GAFGLAS #4 ply sheet, 2 plies | Field | 4,042.5 SF (2 × field) | 10% | 4,446.8 SF | **9 rolls** @ $53.00 = $477.00 (Marc 11/20) | 5 SQ/roll assumed. Confirm against the GAF data sheet. |
 | Field Materials | GAF granulated cap sheet | Field | 2,021.25 SF | 10% | 2,223.4 SF | **18 rolls** | Price book shows 1.25 SQ/roll. If it's a 1 SQ roll: 23 rolls. Confirm product. |
 | Fasteners/Adhesives | Hot asphalt Type III, 100-lb kegs | Board + 2 plies + cap = 4 mopped layers | 8,085 SF (80.85 SQ-layers) | 10% | 2,223 lb | **23 kegs** | 25 lb/SQ per layer assumed. Confirm the NOA rate for board-to-deck attachment. |
 | Field Materials | Granules (touch-up) | Job | — | — | — | 2 bags | |
 | Fasteners/Adhesives | Mops / 4" brushes | Crew | — | — | — | 6 / 6 | |
 
-**Priced so far:** subtotal $4,530.92 · tax 7% $317.16 · **$4,848.08**. This leaves out the #4 ply (no price yet) and all perimeter work.
+**Priced so far:** subtotal $5,007.92 · tax 7% $350.55 · **$5,358.47**. All field lines are priced. Perimeter work is not included yet.
 
 ## Perimeter / flashing: waiting on edge condition
 These lines are in the workbook but sit at 0 until the wall LF and flashing height are entered: ply + cap wall flashings, flashing asphalt, cant strip, term bar, stucco-stop counterflashing, masonry anchors, flashing cement, sealant, drip edge.
@@ -30,7 +30,7 @@ These lines are in the workbook but sit at 0 until the wall LF and flashing heig
 1. Edge condition: parapet all around, open edge, or mixed? LF of each, and the parapet height.
 2. Were the 52.5 × 38.5 dimensions taken at the roof edge or at the walls?
 3. Is 18'-6" measured to the roof surface or to the top of the parapet?
-4. Products: HD board (polyiso or gypsum; 4×4 confirmed), cap sheet roll size, #4 ply coverage. Price for the #4 ply. (Board: $16 each, Marc 11/20.)
+4. Products: HD board (polyiso or gypsum; 4×4 confirmed), cap sheet roll size, #4 ply coverage. Prices: board $16 each, GAF Ply 4 $53/roll (Marc 11/20).
 5. Re-roof (how many layers to remove) or new? Drains / scuppers, and any slope or crickets?
 6. Penetrations: pipes, vents, AC stands.
 
