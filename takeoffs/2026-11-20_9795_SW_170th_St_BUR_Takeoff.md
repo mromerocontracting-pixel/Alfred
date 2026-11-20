@@ -8,7 +8,7 @@
 - Height: 18'-6". Used as the mean roof height until confirmed.
 - No plan set yet. Not confirmed whether the dimensions were taken at the roof edge or at the walls.
 
-Roof slope: flat (slope to drains TBD) · Total 2,021.25 SF / 20.21 SQ · Drip edge LF: TBD · L-flashing / wall LF: TBD (perimeter 182 LF) · Hip & ridge: n/a · Valley: n/a · Rake: n/a · Penetrations: TBD
+Roof slope: flat (slope to drains TBD) · Total 2,021.25 SF / 20.21 SQ · Drip edge LF: 182 · L-flashing / wall LF: 0 (open edge) · Hip & ridge: n/a · Valley: n/a · Rake: n/a · Penetrations: TBD
 
 ## Field takeoff (10% waste on sheets and asphalt)
 | Category | Material / Accessory Item | Location/Zone | Net Qty | Waste % | Gross Qty | Order Unit | Technical / HVHZ Note |
@@ -21,16 +21,21 @@ Roof slope: flat (slope to drains TBD) · Total 2,021.25 SF / 20.21 SQ · Drip e
 | Field Materials | Granules (touch-up) | Job | — | — | — | 2 bags | |
 | Fasteners/Adhesives | Mops / 4" brushes | Crew | — | — | — | 6 / 6 | |
 
-**Priced so far:** subtotal $5,007.92 · tax 7% $350.55 · **$5,358.47**. All field lines are priced. Perimeter work is not included yet.
+| Flashing/Edges | 1×6 PT wood nailer, 16' | Perimeter | 182 LF | 10% | 200.2 LF | **13 pcs** | Length assumed 16'. Nailer is 3/4" thick vs the 1/2" board, so confirm shimming or a 2-layer build-up. |
+| Fasteners/Adhesives | Tapcon 1/4" × 1-3/4" (100/box) | Nailer to concrete | 182 EA (12" o.c.) | 10% | 200 EA | **3 boxes** | 12" o.c. single row assumed. Confirm spacing per RAS 111 / the design. |
+| Flashing/Edges | 3"×3" drip edge, 10' | Perimeter, open edge | 182 LF | 10% | 200.2 LF | **21 pcs** | Gauge and metal TBD. Set in flashing cement, stripped in. Edge-metal fastening per RAS 111. |
+| Fasteners/Adhesives | Flashing cement, Tropical 2100 | Under drip edge flange | 182 LF | 10% | 200.2 LF | **17 tubes** | 12 LF/tube. |
 
-## Perimeter / flashing: waiting on edge condition
-These lines are in the workbook but sit at 0 until the wall LF and flashing height are entered: ply + cap wall flashings, flashing asphalt, cant strip, term bar, stucco-stop counterflashing, masonry anchors, flashing cement, sealant, drip edge.
+**Priced so far:** subtotal $5,112.47 · tax 7% $357.87 · **$5,470.34**. This leaves out the nailer, the Tapcons and the drip edge (no prices yet).
+
+## Perimeter
+Open edge all around (no parapet): 3"×3" drip edge over a 1×6 wood nailer fastened to the concrete with Tapcons (Marc, 11/20/2026). Perimeter 182 LF. Drip edge LF = 182. L-flashing / wall LF = 0.
 
 ## Open items
-1. Edge condition: parapet all around, open edge, or mixed? LF of each, and the parapet height.
+1. Prices: 1×6 PT nailer (and its length), Tapcons, 3"×3" drip edge (gauge / metal). Drip-edge nails into the nailer are not in the takeoff yet.
 2. Were the 52.5 × 38.5 dimensions taken at the roof edge or at the walls?
 3. Is 18'-6" measured to the roof surface or to the top of the parapet?
-4. Products: HD board (polyiso or gypsum; 4×4 confirmed), cap sheet roll size, #4 ply coverage. Prices: board $16 each, GAF Ply 4 $53/roll (Marc 11/20).
+4. Products: HD board (polyiso or gypsum; 4×4 confirmed), cap sheet roll size, #4 ply coverage. Prices so far: board $16 each, GAF Ply 4 $53/roll (Marc 11/20).
 5. Re-roof (how many layers to remove) or new? Drains / scuppers, and any slope or crickets?
 6. Penetrations: pipes, vents, AC stands.
 
