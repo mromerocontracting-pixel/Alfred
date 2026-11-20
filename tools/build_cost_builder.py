@@ -107,6 +107,8 @@ PRICE_BOOK = [
     ("TAPCON", "Tapcon 1/4\" x 1-3/4\" (100/box)", "Tapcon concrete screw 1/4 x 1-3/4", "Box", 100, "EA", None, 0.10, "Drip Edge LF", "", "Nailer to concrete. 1 per LF = 12\" o.c. assumed; spacing per RAS 111 / design - confirm. Multiplier = rows. PRICE NEEDED."),
     ("DRIPEDGE", "Drip edge (A1)", "Gauge / metal TBD", "PC", 10, "LF", None, 0.10, "Drip Edge LF", "", "A1 draft. PRICE NEEDED."),
     ("DRIPEDGE-3X3", "Drip edge 3\"x3\" 10'", "3\"x3\" drip edge (gauge / metal TBD)", "PC", 10, "LF", 8.50, 0.10, "Drip Edge LF", "Marc 11/20/26 (9795 SW 170th)", "Set in flashing cement and strip in per NOA."),
+    ("PITCHPAN", "Pitch pan (equipment stand leg)", "Galvanized pitch pan - size to leg", "EA", 1, "EA", None, 0, "Manual", "", "1 per stand leg. Size TBD from leg dimensions. PRICE NEEDED."),
+    ("PP-FILLER", "Pitch pan filler / pourable sealer", "Product TBD", "EA", None, "", None, 0, "Manual", "", "Qty depends on pan size. PRICE NEEDED."),
     ("COPING", "Metal coping cap + cleat", "Gauge / finish TBD", "LF", 1, "LF", None, 0.10, "Coping LF", "", "Sheet-metal quote needed."),
     # --- Insulation (L5 / A6) ---
     ("ISO-TAPER-LS", "Tapered ISO system (supplier quote)", "Gulfeagle tapered quote #", "LS", 1, "JOB", None, 0, "Per Job", "", "Enter quote $ in Unit Cost Override + quote # and expiry in Notes."),
