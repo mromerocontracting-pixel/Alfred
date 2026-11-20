@@ -34,7 +34,7 @@ Open edge all around (no parapet): 3"×3" drip edge over a 1×6 wood nailer fast
 ## Open items
 1. Prices: 1×6 PT nailer (and its length), Tapcons, 3"×3" drip edge (gauge / metal). Drip-edge nails into the nailer are not in the takeoff yet.
 2. Were the 52.5 × 38.5 dimensions taken at the roof edge or at the walls?
-3. Is 18'-6" measured to the roof surface or to the top of the parapet?
+3. Is 18'-6" measured to the roof surface? (No parapet, so it is used as the mean roof height.)
 4. Products: HD board (polyiso or gypsum; 4×4 confirmed), cap sheet roll size, #4 ply coverage. Prices so far: board $16 each, GAF Ply 4 $53/roll (Marc 11/20).
 5. Re-roof (how many layers to remove) or new? Drains / scuppers, and any slope or crickets?
 6. Penetrations: pipes, vents, AC stands.
