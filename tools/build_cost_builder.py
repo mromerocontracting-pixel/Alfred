@@ -92,6 +92,8 @@ PRICE_BOOK = [
     ("MB-CAP", "Granulated cap sheet 1.25 SQ", "GAF Capsheet (granulated)", "Roll", 125, "SF", 59.90, 0.10, "Field SF", "Shop list 6/26/26", "Confirm product (Ruberoid / mineral cap)."),
     ("MB-CAP-WALL", "Granulated cap — wall flashing", "GAF Capsheet (granulated)", "Roll", 125, "SF", 59.90, 0.10, "Wall Flashing SF", "Shop list 6/26/26", ""),
     ("MB-ASPHALT", "Hot asphalt Type III, 100-lb keg", "Asphalt (price book 'Asphalt (24)')", "Keg", 400, "SF", 40.00, 0.10, "Field SF", "Shop list 6/26/26", "25 lb/SQ per mopped layer -> 400 SF/keg. Set Multiplier = mopped layers. Confirm unit."),
+    ("BUR-HDBOARD", "1/2\" high-density cover board (hot mopped)", "Product TBD (HD polyiso or gypsum board)", "Board", 32, "SF", None, 0.10, "Field SF", "", "4'x8' = 32 SF assumed. Hot-mop attachment may require 4'x4' boards per NOA. PRICE NEEDED."),
+    ("BUR-PLY4", "Fiberglass ply sheet Type IV", "GAF GAFGLAS #4 Ply Sheet", "Roll", 500, "SF", None, 0.10, "Field SF", "", "5 SQ/roll assumed - confirm. Multiplier = plies. PRICE NEEDED."),
     ("MB-CANT", "Cant strip 1x4", "Cant strip (84 LF/unit)", "EA", 84, "LF", 40.00, 0.10, "Wall Flashing LF", "Shop list 6/26/26", "Confirm unit."),
     ("MB-FLCEM", "Flashing cement (term bar seal)", "Tropical 2100", "Tube", 12, "LF", 6.15, 0.10, "Wall Flashing LF", "Shop list 6/26/26", "12 LF/tube."),
     ("MB-GRAN", "Granules (touch-up)", "Granule bag", "Bag", 1, "JOB", 19.80, 0, "Manual", "Shop list 6/26/26", ""),
@@ -156,6 +158,13 @@ ASSEMBLIES = {
         ("TERMBAR", None, 1, None), ("STUCCOSTOP", None, 1, None), ("ANCHOR", None, 2, None),
         ("MB-FLCEM", None, 1, None), ("SEAL-915", None, 1, None), ("MB-GRAN", None, 1, 2),
         ("TOOL-MOP", None, 1, 6), ("TOOL-BRUSH", None, 1, 6)]),
+    "bur-hot": ("Hot-mopped BUR (F1): 1/2\" HD board + 2 plies #4 ply + GAF cap - concrete deck", [
+        ("MB-PRIMER", "Field + Wall SF", 1, None), ("BUR-HDBOARD", None, 1, None), ("BUR-PLY4", None, 2, None),
+        ("MB-CAP", None, 1, None), ("MB-ASPHALT", None, 4, None),
+        ("BUR-PLY4", "Wall Flashing SF", 2, None), ("MB-CAP-WALL", None, 1, None), ("MB-ASPHALT", "Wall Flashing SF", 3, None),
+        ("MB-CANT", None, 1, None), ("TERMBAR", None, 1, None), ("STUCCOSTOP", None, 1, None), ("ANCHOR", None, 2, None),
+        ("MB-FLCEM", None, 1, None), ("SEAL-915", None, 1, None), ("DRIPEDGE", None, 1, None),
+        ("MB-GRAN", None, 1, 2), ("TOOL-MOP", None, 1, 6), ("TOOL-BRUSH", None, 1, 6)]),
     "sa-lowslope": ("Low-slope SA 2-ply (L2: Elastoflex SA V + SA P)", [
         ("MB-PRIMER", None, 1, None), ("L-SAV", None, 1, None), ("L-SAP", None, 1, None),
         ("DRIPEDGE", None, 1, None), ("TERMBAR", None, 1, None), ("STUCCOSTOP", None, 1, None),
