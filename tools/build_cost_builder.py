@@ -109,7 +109,6 @@ PRICE_BOOK = [
     ("DRIPEDGE-3X3", "Drip edge 3\"x3\" 10'", "3\"x3\" drip edge (gauge / metal TBD)", "PC", 10, "LF", 8.50, 0.10, "Drip Edge LF", "Marc 11/20/26 (9795 SW 170th)", "Set in flashing cement and strip in per NOA."),
     ("PITCHPAN", "Pitch pan (equipment stand leg)", "Galvanized pitch pan - size to leg", "EA", 1, "EA", None, 0, "Manual", "", "1 per stand leg. Size TBD from leg dimensions. PRICE NEEDED."),
     ("PP-FILLER", "Pitch pan filler / pourable sealer", "Product TBD", "EA", None, "", None, 0, "Manual", "", "Qty depends on pan size. PRICE NEEDED."),
-    ("DUMPSTER", "Dumpster / debris haul (A8)", "Size TBD", "EA", 1, "EA", None, 0, "Manual", "", "Tear-off debris. Size from roof area x layers. PRICE NEEDED."),
     ("COPING", "Metal coping cap + cleat", "Gauge / finish TBD", "LF", 1, "LF", None, 0.10, "Coping LF", "", "Sheet-metal quote needed."),
     # --- Insulation (L5 / A6) ---
     ("ISO-TAPER-LS", "Tapered ISO system (supplier quote)", "Gulfeagle tapered quote #", "LS", 1, "JOB", None, 0, "Per Job", "", "Enter quote $ in Unit Cost Override + quote # and expiry in Notes."),
@@ -192,6 +191,42 @@ def header(ws, row, labels, widths=None):
     if widths:
         for i, w in enumerate(widths, 1):
             ws.column_dimensions[get_column_letter(i)].width = w
+
+
+JOB_COST_ROWS = 6
+
+
+def add_job_costs(tk, t, items=()):
+    """Untaxed job costs (dumpster, permit, permit runner) below the material totals.
+    t = row of 'Material subtotal'. items = [(description, amount), ...]."""
+    h = t + 6
+    tk[f"A{h}"] = "OTHER JOB COSTS (no sales tax)"
+    tk[f"A{h}"].font = BOLD
+    tk[f"A{h}"].fill = SEC_FILL
+    tk[f"Q{h}"] = "Amount ($)"
+    tk[f"Q{h}"].font = BOLD
+    rows = list(items) or [("Dumpster / debris haul (A8)", None), ("Permit + NOA package (A9)", None),
+                           ("Permit runner", None)]
+    rows = (rows + [(None, None)] * JOB_COST_ROWS)[:JOB_COST_ROWS]
+    for i, (d, a) in enumerate(rows):
+        r = h + 1 + i
+        tk[f"B{r}"] = d
+        tk[f"R{r}"] = a
+        for c in ("B", "R"):
+            tk[f"{c}{r}"].font = BLUE
+            tk[f"{c}{r}"].border = BOX
+        tk[f"R{r}"].number_format = MONEY
+    e = h + JOB_COST_ROWS
+    tk[f"Q{e+1}"] = "Other job costs"
+    tk[f"R{e+1}"] = f"=SUM(R{h+1}:R{e})"
+    tk[f"Q{e+2}"] = "GRAND TOTAL (material + tax + job costs)"
+    tk[f"R{e+2}"] = f"=R{t+2}+R{e+1}"
+    for k in (1, 2):
+        tk[f"Q{e+k}"].font = BOLD
+        tk[f"R{e+k}"].font = BOLD
+        tk[f"R{e+k}"].number_format = MONEY
+    tk[f"R{e+2}"].fill = SEC_FILL
+    return e + 2
 
 
 def build(system, out):
@@ -406,6 +441,7 @@ def build(system, out):
     tk[f"R{t+2}"].fill = SEC_FILL
     tk[f"A{t}"] = "TOTAL covers priced lines only. Any 'PRICE NEEDED' line is not in the total."
     tk[f"A{t}"].font = RED_FONT
+    add_job_costs(tk, t)
     tk.freeze_panes = f"C{FIRST}"
 
     # ---------------- Assemblies ----------------

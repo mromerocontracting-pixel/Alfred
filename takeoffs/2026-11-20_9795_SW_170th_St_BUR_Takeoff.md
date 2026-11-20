@@ -30,9 +30,12 @@ Roof slope: flat, drains off the open eave (slope TBD) · Total 2,021.25 SF / 20
 | Fasteners/Adhesives | Flashing cement, Tropical 2100 | Under drip edge flange | 182 LF | 10% | 200.2 LF | **17 tubes** | 12 LF/tube. |
 | Flashing/Edges | Pitch pans, galvanized | A/C stand legs | 4 EA | — | 4 EA | **4 EA** | Size to the leg. Price needed. Alternative: prefab leg flashings. |
 | Fasteners/Adhesives | Pitch pan filler / pourable sealer | A/C stand legs | 4 pans | — | — | **4 (1 per pan assumed)** | Product and price needed. |
-| Field Materials | Dumpster / debris haul (A8) | Tear-off | 1 | — | — | **1 EA** | Size depends on the existing layers. Price needed. |
 
-**Priced so far:** subtotal $5,415.92 · tax 7% $379.11 · **$5,795.03**. This leaves out the Tapcons, pitch pans, filler and dumpster (no prices yet).
+**Priced so far:** subtotal $5,415.92 · tax 7% $379.11 · **$5,795.03**. This leaves out the Tapcons, pitch pans and filler (no prices yet).
+
+**Other job costs (no sales tax):** dump truck $775.00 · permit runner $300.00 (Marc 11/20) = **$1,075.00**. Permit fee / NOA package: TBD.
+
+**Grand total so far: $6,870.03** (material $5,795.03 + job costs $1,075.00).
 
 ## Perimeter
 Open eave all around, no parapet (confirmed by Marc): 3"×3" drip edge over a 1×6 wood nailer fastened to the concrete with Tapcons (Marc, 11/20/2026). Perimeter 182 LF. Drip edge LF = 182. L-flashing / wall LF = 0.
@@ -42,7 +45,7 @@ Open eave all around, no parapet (confirmed by Marc): 3"×3" drip edge over a 1�
 2. A/C stand legs: leg size, and pitch pans or prefab leg flashings? Is the unit lifted during the reroof?
 3. Is 18'-6" measured to the roof surface? (No parapet, so it is used as the mean roof height.)
 4. Products: HD board (polyiso or gypsum; 4×4 confirmed), cap sheet roll size, #4 ply coverage. Prices so far: board $16 each, GAF Ply 4 $53/roll (Marc 11/20).
-5. Re-roof: existing roof system and number of layers to remove (sets the dumpster size and deck prep). Concrete deck condition after tear-off. No drains: confirm the deck slopes to the eaves (ponding risk); gutters by others?
+5. Re-roof: existing roof system and number of layers to remove (deck prep; dump truck priced at $775). Concrete deck condition after tear-off. No drains: confirm the deck slopes to the eaves (ponding risk); gutters by others?
 6. Any other penetrations (pipes, vents)? Only the A/C stand is on the sketch.
 
 ## Critical Missing Data for Miami-Dade Permitting
