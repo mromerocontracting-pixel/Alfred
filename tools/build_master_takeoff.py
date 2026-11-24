@@ -319,6 +319,12 @@ def build(out, pb_rows, systems=None, log0=None, history=None):
         ("3. New item: add a row at the bottom of the Price Book with a unique Code. It shows up in the Code dropdown right away.", None),
         ("   Yellow = no price yet.  Orange = price older than %d days — reconfirm before ordering." % STALE_DAYS, None),
         ("", None),
+        ("FILLING IN WHAT'S PENDING", BOLD),
+        ("• Price Book, Status column (filter it):  PRICE NEEDED = type the Unit Cost.  COVERAGE NEEDED = type how much one unit covers", None),
+        ("  (SF per roll, LF per piece, nails per box) so the takeoff can count it.  PRICE OLD = reconfirm.  CONFIRM = read the note and fix or clear it.", None),
+        ("• Inputs: yellow cells are blank. Takeoff: the Flag column shows each line that still needs a price, measurement or manual qty.", None),
+        ("• Blue text anywhere = a cell you can type in. Black = formula, leave it.", None),
+        ("", None),
         ("NEW SYSTEM", BOLD),
         ("Assemblies tab: add the system name to the Systems list and its lines (Line 1, 2, 3...) to the Lines table. It appears in the Inputs dropdown.", None),
         ("", None),
@@ -458,8 +464,29 @@ def build(out, pb_rows, systems=None, log0=None, history=None):
     dv = DataValidation(type="list", formula1="=BasisNames", allow_blank=True)
     pb.add_data_validation(dv)
     dv.add(f"K4:K{end}")
+    # Status column (R): what still needs filling in. Filter on it.
+    c = pb.cell(3, 18, "Status (filter me)")
+    c.font, c.fill, c.border = HDR_FONT, HDR_FILL, BOX
+    c.alignment = Alignment(wrap_text=True, vertical="center")
+    pb.column_dimensions["R"].width = 18
+    for rr in range(4, end + 1):
+        pb.cell(rr, 18, (
+            f'=IF($A{rr}="","",IF($I{rr}="","PRICE NEEDED",IF(AND($G{rr}="",$K{rr}<>"Manual"),"COVERAGE NEEDED",'
+            f'IF(AND(ISNUMBER($N{rr}),$N{rr}>{STALE_DAYS}),"PRICE OLD",'
+            f'IF(OR(ISNUMBER(SEARCH("confirm",$Q{rr})),ISNUMBER(SEARCH("assumed",$Q{rr})),ISNUMBER(SEARCH("not on list",$Q{rr})),'
+            f'ISNUMBER(SEARCH("TBD",$D{rr}))),"CONFIRM","OK")))))'))
+        pb.cell(rr, 18).border = BOX
+        pb.cell(rr, 18).font = BOLD
+    for txt, fill in (("PRICE NEEDED", YELLOW), ("COVERAGE NEEDED", YELLOW), ("PRICE OLD", ORANGE),
+                      ("CONFIRM", PatternFill("solid", fgColor="DDEBF7")), ("OK", PatternFill("solid", fgColor="E2EFDA"))):
+        pb.conditional_formatting.add(f"R4:R{end}", FormulaRule(formula=[f'$R4="{txt}"'], fill=fill))
+    pb.conditional_formatting.add(f"G4:G{end}", FormulaRule(formula=['AND($A4<>"",LEN($G4)=0,$K4<>"Manual")'], fill=YELLOW))
+    pb["A2"] = (f'="To fill in:  "&COUNTIF(R4:R{end},"PRICE NEEDED")&" price needed  ·  "&COUNTIF(R4:R{end},"COVERAGE NEEDED")'
+                f'&" coverage needed  ·  "&COUNTIF(R4:R{end},"PRICE OLD")&" price old  ·  "&COUNTIF(R4:R{end},"CONFIRM")'
+                f'&" to confirm  ·  "&COUNTIF(R4:R{end},"OK")&" OK.   Use the filter arrow on Status."')
+    pb["A2"].font = RED_FONT
     pb.freeze_panes = "C4"
-    pb.auto_filter.ref = f"A3:Q{end}"
+    pb.auto_filter.ref = f"A3:R{end}"
 
     # ================= Assemblies =================
     asm = wb.create_sheet("Assemblies")

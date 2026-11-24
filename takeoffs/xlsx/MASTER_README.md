@@ -7,7 +7,7 @@
 | Start Here | Step-by-step instructions |
 | Inputs | Pick the **system** (dropdown). Then job info, permitting data (blank cells are counted as missing), measurements, waste %, tax |
 | Takeoff | Lines load from the chosen system. Exclude a line (Include = N), add an item in a blank row, or adjust basis, multiplier, waste, manual qty or unit cost. Below the lines: other job costs (no sales tax) and the grand total |
-| Price Book | 172 items: the full 11/17/2026 shop price list plus the Gulfeagle invoices/quotes and job prices, each with supplier, price date, source and previous price. Yellow = no price yet. Orange = price older than 180 days |
+| Price Book | 172 items, each with a **Status** to filter on (PRICE NEEDED, COVERAGE NEEDED, PRICE OLD, CONFIRM, OK) and a count at the top: the full 11/17/2026 shop price list plus the Gulfeagle invoices/quotes and job prices, each with supplier, price date, source and previous price. Yellow = no price yet. Orange = price older than 180 days |
 | Assemblies | The systems and the lines each one loads. Add your own |
 | Price Log | One row per price change |
 | Job History | Past takeoffs with $/SQ, as a sanity check |
