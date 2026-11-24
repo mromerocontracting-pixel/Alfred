@@ -7,6 +7,8 @@ Tabs:
   Takeoff     line items: pick a Code, everything else is looked up and calculated
   Assemblies  starter line sets per system (what each --system preloads)
 
+Superseded for new jobs by tools/build_master_takeoff.py (MASTER_Takeoff_Cost_Builder.xlsx).
+
 Usage:
   python3 tools/build_cost_builder.py                 # writes every starter template
   python3 tools/build_cost_builder.py --system tpo-fa --out path.xlsx
@@ -374,7 +376,7 @@ def build(system, out):
     last = FIRST + TAKEOFF_ROWS - 1
     for rr in range(FIRST, last + 1):
         A = f"$A{rr}"
-        lk = lambda nm: f'IFERROR(INDEX({nm},MATCH({A},PB_Code,0)),"")'
+        lk = lambda nm: f'IFERROR(IF(INDEX({nm},MATCH({A},PB_Code,0))&""="","",INDEX({nm},MATCH({A},PB_Code,0))),"")'
         f = {
             "B": f'=IF({A}="","",{lk("PB_Item")})',
             "C": f'=IF({A}="","",{lk("PB_Product")})',
@@ -467,7 +469,7 @@ if __name__ == "__main__":
     ap.add_argument("--out", help="output .xlsx (only with --system)")
     a = ap.parse_args()
     here = os.path.dirname(os.path.abspath(__file__))
-    tdir = os.path.join(here, "..", "takeoffs", "xlsx", "templates")
+    tdir = os.path.join(here, "..", "takeoffs", "xlsx", "templates")  # legacy
     systems = [a.system] if a.system else list(ASSEMBLIES)
     for s in systems:
         out = a.out if (a.out and a.system) else os.path.join(tdir, f"Cost_Builder_{s}.xlsx")
