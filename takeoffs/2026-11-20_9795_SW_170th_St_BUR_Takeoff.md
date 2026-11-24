@@ -1,7 +1,13 @@
 # 9795 SW 170th St — Hot-Mopped BUR Material Takeoff (Rev 0 DRAFT, 11/20/2026)
 **System (Option 1, Marc):** concrete deck, primed · 1/2" high-density cover board · 2 plies GAF GAFGLAS #4 fiberglass ply · GAF granulated cap sheet · all set in hot asphalt.
 **Preset:** F1 hot mop. L4 is still an open item in the handoff prompt (base, ply and cap products), so this takeoff depends on it.
-**Workbook:** `xlsx/2026-11-20_9795_SW_170th_St_BUR_Takeoff_Rev0.xlsx` (built from the cost builder `bur-hot` starter).
+**Workbook:** `xlsx/2026-11-20_9795_SW_170th_St_BUR_Takeoff_Rev1.xlsx` (CURRENT, built from the master workbook). Rev 0: `xlsx/2026-11-20_9795_SW_170th_St_BUR_Takeoff_Rev0.xlsx`.
+
+## Rev 1 (11/24/2026): shop price list 11/17/26
+- Primer Tropical 410: $45.00 (was $43.48). GAF cap sheet: $60.95 (was $59.90). Granules: $21.40 (was $19.80).
+- Ring shank nails 1-1/4": $33.25 per box. Box count needed (nails per box not on the list).
+- **Rev 1 totals: material $5,462.62 + tax $382.38 = $5,845.00. Job costs $1,075.00. Grand total $6,920.00.**
+- Still unpriced: Tapcons, pitch pan filler, permit fee.
 
 ## Measurements (Marc's roof sketch, 11/20/2026)
 - Roof: flat, 52.5' × 38.5' = **2,021.25 SF (20.21 SQ)**; the sketch rounds it to 2,022 SF. Perimeter 182.0 LF.

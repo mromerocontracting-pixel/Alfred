@@ -12,7 +12,8 @@
 The Excel file is the source of truth for prices, systems, the price log and job
 history. To rebuild the layout without losing any of that, run:
     python3 tools/build_master_takeoff.py            # keeps Price Book, Assemblies, Price Log, Job History
-    python3 tools/build_master_takeoff.py --fresh    # resets everything to the seed lists below
+    python3 tools/build_master_takeoff.py --fresh    # DANGER: resets to the old seed lists below (loses the
+                                                     # 11/17/26 shop list and every later price)
 """
 import argparse
 import datetime as dt
