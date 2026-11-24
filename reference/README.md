@@ -20,6 +20,12 @@ The text in `proposals/` and `takeoffs/` was pulled out of the Drive originals. 
 | 2026-09-02 | Solano Prado, Coral Gables | GAF EverGuard TPO 60-mil fully adhered over tapered ISO on a concrete deck. Three tabs: Assumptions, TPO Takeoff, Price Book. | [takeoffs/2026-09-02_Solano_Prado_TPO_Takeoff_Structure.md](takeoffs/2026-09-02_Solano_Prado_TPO_Takeoff_Structure.md) | [Sheet (latest)](https://docs.google.com/spreadsheets/d/1LMXiBD3DgcTZMM04_TcJQaWMrwQc4lz3z5nONkIO4j8/edit) |
 | 2026-08-13 | 6465 SW 23rd St | Tile quote request: Westlake Madera 900, Mountainwood 5001, 36 SQ, 295 LF ridge | [takeoffs/2026-08-13_6465_SW_23rd_Tile_Quote_Request.md](takeoffs/2026-08-13_6465_SW_23rd_Tile_Quote_Request.md) | [Doc](https://docs.google.com/document/d/1gavh_iloR2q7xw8CuxI3lGhw6Vu6Yt4VEso1jMXRVkA/edit) |
 
+## Product approvals (NOAs)
+
+| Date pulled | What | Local copy |
+|---|---|---|
+| 2026-11-24 | GAF hot-mop recover systems: BUR NOA 25-1017.03 and Ruberoid mod-bit NOA 25-0926.03 (both expire 11/06/30) | [noa/GAF_Hot_Mop_Recover_NOAs.md](noa/GAF_Hot_Mop_Recover_NOAs.md) |
+
 ## Plan sets (test inputs for the blueprint reader)
 
 These are the blueprints in Drive. They give the agent real sheets to practice on, and the jobs that have a finished proposal or takeoff can be used to check its answers.
